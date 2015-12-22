@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,-PELIS-
 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="PELIS",Krampus
+https://1fgm8h0.oloadcdn.net/dl/l/kJCrWxDNwzc/3XFL0UmI0EI/Krampus+The+Reckoning.2015.HDrip+VOSE.avi.mp4?mime=true
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="PELIS",A la ”M” con los Zombies
 https://1fgm8ge.oloadcdn.net/dl/l/ewsxMscwH24/xOreDatMiaA/sc0uts.gu1d3.t0.th3.z0mb13.4p0c4lyps3.2015.hdrip.latino.gnula.avi.mp4
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="PELIS",Boruto
