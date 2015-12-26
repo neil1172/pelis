@@ -1,15 +1,25 @@
 #EXTM3U
-#EXTINF:-1,-PELIS-
+#EXTINF:0,-LOS SIMPSONS-
+#EXTINF:-1 group-title="LOS SIMPSONS",Los Simpsons 23x1
+https://r17---sn-ab5l6ns7.googlevideo.com/videoplayback?id=cc50caf0fdaa67b3&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-ab5l6ns7&ms=nxu&mv=m&pl=24&mime=video/mp4&lmt=1444371890800099&mt=1451100909&ip=181.67.143.59&ipbits=8&expire=1451129740&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,mime,lmt&signature=82C0BBA235A3E6F52FA211D835C63B0AA3FA5416.142FAC273CDFCFCDA4A72C64A5E27C8F512468D5&key=ck2
+#EXTINF:-1 group-title="LOS SIMPSONS",Los Simpsons 23x2
+https://r3---sn-ab5l6ns7.googlevideo.com/videoplayback?id=de55afe8f54931d0&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-ab5l6ns7&ms=nxu&mv=m&pl=24&mime=video/mp4&lmt=1444371808434767&mt=1451101777&ip=181.67.143.59&ipbits=8&expire=1451130645&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,mime,lmt&signature=212512FD86B600AD65F346BE6F5B6D7304F30AA9.296D787D749118C84DDAA1F1368ED282B7969A2C&key=ck2
+#EXTINF:-1 group-title="LOS SIMPSONS",Los Simpsons 23x3
+https://r13---sn-ab5l6nse.googlevideo.com/videoplayback?id=ff98aa17586e87ef&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-ab5l6nse&ms=nxu&mv=m&pl=24&mime=video/mp4&lmt=1444372237334009&mt=1451101855&ip=181.67.143.59&ipbits=8&expire=1451130694&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,mime,lmt&signature=12505747D4985CEC972C465CED947C27C1C5C895.8DFBED33D50A610551ACF218A3B819A1FDBE5673&key=ck2
+#EXTINF:-1 group-title="LOS SIMPSONS",Los Simpsons 23x4
+https://r17---sn-ab5l6nl6.googlevideo.com/videoplayback?id=b6cee26a7f2dc5e1&itag=22&source=webdrive&begin=0&requiressl=yes&mm=30&mn=sn-ab5l6nl6&ms=nxu&mv=m&pl=24&mime=video/mp4&lmt=1444371843088893&mt=1451102090&ip=181.67.143.59&ipbits=8&expire=1451130941&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,mime,lmt&signature=18C20E3B4FF2EB601830F20594E7702EB81C4703.B3C3C086B1CECB75607AF80D1B6D1D49BE872142&key=ck2
 
+#EXTINF:0,-PELIS-
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="PELIS",Krampus
 https://1fgm8h0.oloadcdn.net/dl/l/kJCrWxDNwzc/3XFL0UmI0EI/Krampus+The+Reckoning.2015.HDrip+VOSE.avi.mp4?mime=true
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="PELIS",Super Hero
 http://cs525212v4.vk.me/u192945876/videos/77d6895aeb.360.mp4
+#EXTINF:-1,The ridiculous
+https://efcb85.oloadcdn.net/dl/l/4ot5uknZatY/VBCxs_xZwHY/00aaRidiculous.6..7p.LAT.mkv.mp4
+
+#EXTINF:0,-DBZ-
 #EXTINF:1,DBZ, La resurrecion de Frezzer 
 https://1fgm8kf.oloadcdn.net/dl/l/Po0IA6-Lnks/1NrmF_kgAQw/Dragon+Ball+Z+La+resurrecci%C3%B3n+de+Freezer+%282015%29+-+Latino+HDRip+720p.avi.mp4
-
-#EXTINF:1,DBZ, La resurrecion de Frezzer 
-https://lh3.googleusercontent.com/e6CsF7Ta_O7dqca0VCjOggjzvEmzVIXITu_DSjAsWc4=m37
 #EXTINF:1,DBZ, La batalla de los dioses 
 https://lh3.googleusercontent.com/9w9OLJCMg1bJAWv3fELTGExPJgPj1h7ETIu9bLt0zpw=m37
 #EXTINF:1,DBZ, evolution
@@ -38,5 +48,4 @@ https://lh3.googleusercontent.com/wmDbZm1iKmhoJ_37R0Fnue79UYobS-mZo9oQhGOqYg=m37
 https://lh3.googleusercontent.com/jnoXZrJGvlxV3RjiQZpHTFyAfANMZonrIGZ4o2at4Yc=m37
 #EXTINF:1,DBZ, la super batalla
 https://lh3.googleusercontent.com/crNi0NkDg5QjlI0_hjXxjTINLTuZs3MgG3VzIJrPBg=m37
-#EXTINF:1,DBZ, The ridiculous
-https://efcb85.oloadcdn.net/dl/l/4ot5uknZatY/VBCxs_xZwHY/00aaRidiculous.6..7p.LAT.mkv.mp4
+
