@@ -1,31 +1,10 @@
 #EXTM3U
-#EXTINF:0,-LOS SIMPSONS-
-#EXTINF:-1 group-title="DBZ SUPER",DBZ SUPER 1
-https://ws.cubbyusercontent.com/p/_e9193d32129542e5991adc6ce822148c/dblat+2.mp4/1412097815
-#EXTINF:-1 group-title="DBZ SUPER",DBZ SUPER 2
-https://ws.cubbyusercontent.com/p/_e9193d32129542e5991adc6ce822148c/dblat+2.mp4/1412097815
-#EXTINF:-1 group-title="DBZ SUPER",DBZ SUPER 3
-https://ws.cubbyusercontent.com/p/_0b4f4b3835e248a1b8c9851b1b7a4c7d/dblat+3.mp4/1412116998
-#EXTINF:-1 group-title="DBZ SUPER",DBZ SUPER 4
-https://ws.cubbyusercontent.com/p/_147b9f08b5884b3bbcc032444e097a52/ballat+4.mp4/1412806368
-#EXTINF:-1 group-title="DBZ SUPER",DBZ SUPER 5
-https://ws.cubbyusercontent.com/p/_e9193d32129542e5991adc6ce822148c/dblat+2.mp4/1412097815
+#EXTINF:0,-DBZ-
+#EXTINF:1,DBZ, La resurrecion de Frezzer 
+http://s13.vimple.ru:8081/vv51/506860.flv?v=07462a3d-5b77-4f5a-8f94-6c7461fabb5b&t=635892053127271250&d=8973&sig=2eec90da4f9a703cc6b581efb14fd6ea
+#EXTINF:1,DBZ, El llanero
+https://1fgm8kj.oloadcdn.net/dl/l/Ij33lhwmxTE/33vjsvh2Y04/LLanero.SolitarioBRrip.lat.avi.mp4?mime=true
 
-
-
-
-
-#EXTINF:0,-PELIS-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="PELIS",Krampus
-https://1fgm8h0.oloadcdn.net/dl/l/kJCrWxDNwzc/3XFL0UmI0EI/Krampus+The+Reckoning.2015.HDrip+VOSE.avi.mp4?mime=true
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="PELIS",B
-http://gs.video.tt/s?v=VNoazfLzV&r=1&t=1451712325&u=&c=338f5ab83df0b8e232d2f093a42c3adc01371a8fbfcb13214fc0ef4f895f638efedc7243b1634ce584fd470cfa78fe05&start=0
-#EXTINF:-1,The ridiculous
-https://efcb85.oloadcdn.net/dl/l/4ot5uknZatY/VBCxs_xZwHY/00aaRidiculous.6..7p.LAT.mkv.mp4
-#EXTINF:-1,el titere
-https://1fgm8k5.oloadcdn.net/dl/l/FRmlxHC2d4g/f_aD_IsU2cs/Silencio+desde+el+mal+m720p.castellano.mkv.mp4?mime=true
-#EXTINF:-1,Snoopy
-https://15zf895.oloadcdn.net/dl/l/ls1wJZnYrHc/xZuYAu7ezaE/CarlitosySnoopyLapel%C3%ADculadePeanuts+LatinoDvDCustomR5.avi.mp4?mime=true
 
 #EXTINF:0,-DBZ-
 #EXTINF:1,DBZ, La resurrecion de Frezzer 
