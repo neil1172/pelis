@@ -66,24 +66,15 @@ https://ia801500.us.archive.org/33/items/DBS033/DBS033.mp4
 https://ia801500.us.archive.org/33/items/DBS033/DBS034.mp4
 #EXTINF:1,DBZ, 35
 https://ia801500.us.archive.org/33/items/DBS033/DBS035.mp4
-#EXTINF:-1,SPORTV
-http://62.210.82.241:1935/liverepeat/201020/live.m3u8
-#EXTINF:-1,SPORTV
-http://31.204.128.112:8081/live/sportvhd/playlist.m3u8
-#EXTINF:-1,SPORTV
-http://37.203.209.34:443/mobile/bob05/live.m3u8
-#EXTINF:-1,SPORTV
-http://80.82.78.16:8081/live/sportv/playlist.m3u8
-#EXTINF:-1,SPORTV2
-http://31.204.128.112:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1,SPORTV2
-http://37.203.209.34:443/mobile/bob06/live.m3u8
-#EXTINF:-1,SPORTV2
-http://80.82.78.16:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1,SPORTV2
-http://31.204.128.112:8081/live/sportv3/playlist.m3u8
-#EXTINF:-1,SPORTV2
-http://37.203.209.34:443/mobile/bob50/live.m3u8
+#EXTINF:1,DeadPool DVD
+https://17wy0tw.oloadcdn.net/dl/l/pZdi8E_OsNA/qt9UuRNjYU0/d34dp00l.2016.hds.latino.gnula.avi.mp4?mime=true
+#EXTINF:1,DeadPool HD
+https://17wy0pg.oloadcdn.net/dl/l/4vxli9M489s/eFL-dVLlPss/00aa1Deadpool.7p.VOSE.mkv.mp4?mime=true
+#EXTINF:1,Ben hur
+http://u2171.allmyvideos.net/d/7kmkxvg3yq5dh6ln2lgjj4gwhi6egu6rmk2uqpiw377flo63fazgxkzb2e22bbi/video.mp4?v2&direct=false&ua=false
+#EXTINF:1,Ben hur
+https://efcb8v.oloadcdn.net/dl/l/TiujDQLm80Q/sjXQsMuFInE/Ben-Hur.DVDrip.lat.avi.mp4?mime=true
+
 
 
 
