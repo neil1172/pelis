@@ -1,171 +1,2786 @@
 #EXTM3U
-#EXTINF:-1,==========Spain==========
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7231.ts
+#EXTINF:-1,Canal UNO
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+
+#EXTINF:-1 , PELIS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,Travel Channel
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:0,TV NUEVO TIEMPO
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:0,ALFA TV
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+#EXTINF:0,Esperanza TV
+rtmp://k3.usastreams.com:1935/etvSD/etvSD 
+#EXTINF:0,BYU TV MORMONES HD
+http://byuhd2-lh.akamaihd.net:80/i/byutvintspanhd2_live@103133/index_840_av-b.m3u8
+#EXTINF:0,Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8#MegaIPTVArgentina 
+#EXTINF:0,Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8#MegaIPTVArgentina 
+#EXTINF:70,[COLOR gold]Alcance TV[/COLOR]
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:70,[COLOR gold]EWTN[/COLOR]
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:-1,SMO TV
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1,Canal 13
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+
+
+#EXTINF:-1 ,Discovery en español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:70, LA SEXTA HD
+http://www.iptvsaga.com/play/tv3/0013.m3u8
+#EXTINF:-1 tvg-logo="A3S" group-title="ESPAÑA",A3S
+
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/la2.png",La 2
+
+http://hlslive.rtve.es/LA2_LV3_IPH/master.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/telecinco.png",Telecinco
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_700_av-p.m3u8
+#EXTINF:0 tvg-id="la sexta T-K" tvg-logo="lasexta.png",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/8tv.png",8tv
+
+http://mediasethls-lh.akamaihd.net/i/mitele/8tv_ng@393131/index_500_av-p.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/mega.png",MEGA
+
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/neox.png",Neox
+
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/nova.png",Nova
+
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:70,TV Chile
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:70,TV MÁS
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1,,Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+#EXTINF:70,ONDA LATINA TV
+http://ondalatina_tv-lh.akamaihd.net:80/i/OndaLatinaTv_1@42007/master.m3u8
+
+
+
+#EXTINF:-1, RT
+http://www.iptvsaga.com/play/tv3/0011.m3u8
+#EXTINF:70,Cablenoticias HD
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/smil:cablenoticiastv.smil/chunklist_w1899933094_b1035000_slES.m3u8
+#EXTINF:0,24 HORAS
+http://hlslive.rtve.es:80/24H_LV3_IPH/24H_LV3_IPH.m3u8
+
+#EXTINF:0,EL TIEMPO TV
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:0,Cable Noticias 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+
+
+#EXTINF:-1,Canal 42
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1,Colosal TV
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:0,CB Televisión
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+
+#EXTINF:-1,XPERTS 33 TV
+rtmp://k3.usastreams.com:1935/tv33/tv33
+
+#EXTINF:-1,VEVO Channel 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?
+#EXTINF:-1,VEVO Channel 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?
+#EXTINF:-1,VEVO Channel 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?
+#EXTINF:-1,Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="Canal de las Estrellas.png",Canal de las Estrellas  
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS HD
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="FOROtv.png" ,FOROtv (Mexico)
+
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+
+#EXTINF:-1 tvg-id="Azteca 7 T-K" tvg-logo="azteca-7.png",Azteca 7 Monterrey
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="canal once.png" ,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EL TRECE HD T-K" tvg-logo="el-trece.png",El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1,AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+
+#EXTINF:-1 tvg-id="AztecaNoticias" tvg-logo="azteca-noticias.png",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1, Capital 21 (CDMX)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+
+#EXTINF:-1 tvg-id="PROYECTO 40 T-K" tvg-logo="proyecto-40.png" ,Proyecto 40 HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+
+
+#EXTINF:-1 tvg-logo="Azteca Honduras.png",Azteca Honduras
+
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="Guatevision.png",Guatevision
+
+http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:-1 tvg-logo="NBA TV .png",NBA TV 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:-1, Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Combate" group-title="DEPORTES",Combate
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 ,Miami TV Channel
+
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+
+
+#EXTINF:-1,Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?
+
+#EXTINF:-1 tvg-id="Total_Vevo 1" tvg-name="Vevo_1" tvg-logo="vevo.png" tvg-shift="1",Vevo Hits
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Total_Vevo 3" tvg-name="Vevo_3" tvg-logo="vevo.png" tvg-shift="2",Vevo Nashville
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="Vevo HD 1" group-title="MÚSICA",Vevo HD 1
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="Vevo HD 2" group-title="MÚSICA",Vevo HD 2
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="Vevo HD 3" group-title="MÚSICA",Vevo HD 3
+
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="DJING Dance Floor tvg-logo="djing.png",DJING Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1 tvg-logo="Hit TV.png",Hit TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1,Hit TV
+
+#EXTINF:-1 tvg-logo="unnamed.png" group-title="MÚSICA",Melody Channel
+
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="heart_logo.jpg" group-title="MÚSICA",Heart TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:0 group-title="TVAR",Magazine
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+
+
+
+
+
+
+
+#EXTINF:-1, CNN Internacional
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
+
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1, NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+#EXTINF:-1, RT en español
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1, NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_400_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, NASA TV HD (720)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+
+
+
+
+#EXTINF:-1,FOX SPORTS 1 usa
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-p.m3u8?sd=10&rebase=on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,Onda Latina (Italia)
+
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+
+
+
+#EXTINF:-1 ,Canal 13 HD (Argentina)
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+
+
+
+#EXTINF:-1 tvg-logo="400x400-logo.png" group-title="COLOMBIA",Canal Antiestrés
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="Canal Capital" group-title="COLOMBIA",Canal Capital
+
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+
+#EXTINF:-1 tvg-logo="Logo-Canal_U.png" group-title="COLOMBIA",Canal U
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="0cdcf2642b0477806ce6f4d1e0a21d4c.jpeg" group-title="COLOMBIA",Cantinazo
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="imagen_id_5272.jpg" group-title="COLOMBIA",Cosmovision
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+
+#EXTINF:-1 tvg-logo="El Tiempo" group-title="COLOMBIA",El Tiempo
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="Lifedesign" group-title="COLOMBIA",Lifedesign
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="Logo-pasion-por-lo-nuestro-teleantioquia_1372462376.jpg" group-title="COLOMBIA",Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+
+
+#EXTINF:-1 tvg-logo="Telemedellin.png" group-title="COLOMBIA",Telemedellín
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO",TV5 Monde
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="NHK World" group-title="NOTICIAS",NHK World HD
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+#EXTINF:-1,COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+#EXTINF:-1,DeporTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,EUROSPORT
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+
+
 #EXTINF:-1,SP: LA1
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/33.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/33.ts
 #EXTINF:-1,SP: LA2
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/34.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/34.ts
 #EXTINF:-1,SP: ANTENA 3
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/407.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/407.ts
 #EXTINF:-1,SP: CUATRO
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/24.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/24.ts
 #EXTINF:-1,SP: TELECINCO HD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7209.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7209.ts
 #EXTINF:-1,SP: TELECINCO
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/44.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/44.ts
 #EXTINF:-1,SP: LA SEXTA HD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/408.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/408.ts
 #EXTINF:-1,SP: NEOX
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7194.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7194.ts
 #EXTINF:-1,SP: NOVA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/42.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/42.ts
 #EXTINF:-1,SP: MEGA TV
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7200.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7200.ts
 #EXTINF:-1,SP: FDF
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/404.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/404.ts
 #EXTINF:-1,SP: DIVINITY
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7196.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7196.ts
 #EXTINF:-1,SP: ENERGY
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/405.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/405.ts
 #EXTINF:-1,SP: ANDALUCIA TV
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7195.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7195.ts
 #EXTINF:-1,SP: CANAL+ ACCION
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/5.ts
 #EXTINF:-1,SP: CANAL+ COMEDIA HD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7211.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7211.ts
 #EXTINF:-1,SP: CANAL+ COMEDIA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/6.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/6.ts
 #EXTINF:-1,SP: CANAL+ XTRA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/16.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/16.ts
 #EXTINF:-1,SP: CANAL+ TOROS
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/15.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/15.ts
 #EXTINF:-1,SP: CANAL+ DCINE HD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7210.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7210.ts
 #EXTINF:-1,SP: CANAL+ DCINE
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7224.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7224.ts
 #EXTINF:-1,SP: CANAL+ SERIES
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/13.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/13.ts
 #EXTINF:-1,SP: CANAL+ SERIESXTRA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/14.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/14.ts
 #EXTINF:-1,SP: CANAL+ ESTRENOS
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/9.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/9.ts
 #EXTINF:-1,SP: CANAL+ DEPORTES
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/8.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/8.ts
 #EXTINF:-1,SP: CANAL+ DEPORTES 2
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7197.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7197.ts
 #EXTINF:-1,SP: CANAL+ LIGA HD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/418.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/418.ts
 #EXTINF:-1,SP: CANAL+ LIGA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/12.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/12.ts
 #EXTINF:-1,SP: CANAL+ GOLF HD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7202.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7202.ts
 #EXTINF:-1,SP: CANAL+ GOLF
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/11.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/11.ts
 #EXTINF:-1,SP: CANAL+ FUTBOL
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/10.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/10.ts
+#EXTINF:-1,SP: Canal+ Partidazo LQ
+http://iptv.alphacs.tv:8080/live/roja/roja/9191.ts
+#EXTINF:-1,SP: Canal+ Partidazo
+http://iptv.alphacs.tv:8080/live/roja/roja/9190.ts
 #EXTINF:-1,SP: Bein Sport HD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5983.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/5983.ts
 #EXTINF:-1,SP: Bein Sports
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/587.ts
-#EXTINF:-1,SP: Canal
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/415.ts
-#EXTINF:-1,SP: Taquilla 9
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5949.ts
-#EXTINF:-1,SP: Taquilla 8
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5950.ts
-#EXTINF:-1,SP: Taquilla 7
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5951.ts
-#EXTINF:-1,SP: Taquilla 6
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5952.ts
-#EXTINF:-1,SP: Taquilla 5
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5953.ts
-#EXTINF:-1,SP: Taquilla 4
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5954.ts
-#EXTINF:-1,SP: Taquilla 3
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5955.ts
-#EXTINF:-1,SP: Taquilla 2
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5956.ts
-#EXTINF:-1,SP: Taquilla 10
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5957.ts
-#EXTINF:-1,SP: Taquilla 1
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5958.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/587.ts
 #EXTINF:-1,SP: Movistar MotoGp
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5962.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/5962.ts
 #EXTINF:-1,SP: CANAL COCINA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7201.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7201.ts
 #EXTINF:-1,SP: PARAMOUNT
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7212.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7212.ts
 #EXTINF:-1,SP: HBO LATINO
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7215.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7215.ts
 #EXTINF:-1,SP: COMEDIA CENTRAL
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7216.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7216.ts
 #EXTINF:-1,SP: Movistar F1
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5963.ts
-#EXTINF:-1,SP: GOL TV
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/5946.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/5963.ts
 #EXTINF:-1,SP: BARCA TV
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/7213.ts
-#EXTINF:-1,SP: SEVILLA FC
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/6006.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/7213.ts
 #EXTINF:-1,SP: Real Madrid tv
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/422.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/422.ts
 #EXTINF:-1,SP: TyC SPORTS
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/421.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/421.ts
 #EXTINF:-1,SP: CANAL DECASA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/1760.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/1760.ts
 #EXTINF:-1,SP: TV GALICIA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/410.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/410.ts
 #EXTINF:-1,SP: Proyecto 40
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/426.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/426.ts
 #EXTINF:-1,SP: CLAN TV
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/413.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/413.ts
 #EXTINF:-1,SP: CANAL 1
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/406.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/406.ts
 #EXTINF:-1,SP: SOL MUSICA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/411.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/411.ts
 #EXTINF:-1,SP: BOING
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/409.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/409.ts
 #EXTINF:-1,SP: TNT
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/46.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/46.ts
 #EXTINF:-1,SP: TCM
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/43.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/43.ts
 #EXTINF:-1,SP:  SYFY
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/48.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/48.ts
 #EXTINF:-1,SP: NICKELODEON
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/40.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/40.ts
 #EXTINF:-1,SP: NICK JR
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/41.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/41.ts
 #EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/38.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/38.ts
 #EXTINF:-1,SP: NAT GEO WILD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/39.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/39.ts
 #EXTINF:-1,SP: LA SEXTA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/35.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/35.ts
 #EXTINF:-1,SP: HISTORIA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/31.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/31.ts
 #EXTINF:-1,SP: FOX
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/29.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/29.ts
 #EXTINF:-1,SP: FOX LIFE
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/30.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/30.ts
 #EXTINF:-1,SP: DISNEY XD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/28.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/28.ts
 #EXTINF:-1,SP: DISNEY JUNIOR
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/27.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/27.ts
 #EXTINF:-1,SP: DISNEY CHANNEL
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/26.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/26.ts
 #EXTINF:-1,SP: COMEDY CENTRAL
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/22.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/22.ts
 #EXTINF:-1,SP: CAZA Y PESCA
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/21.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/21.ts
 #EXTINF:-1,SP: CANAL HOLLYWOOD
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/32.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/32.ts
 #EXTINF:-1,SP: CALLE 13
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/17.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/17.ts
 #EXTINF:-1,SP: AXN WHITE
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/4.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/4.ts
 #EXTINF:-1,SP: AXN
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/3.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/3.ts
 #EXTINF:-1,SP: A&E
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/2.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/2.ts
 #EXTINF:-1,SP: VH1
-http://iptv.alphacs.tv:8080/live/v9EKjReAZr/dpq5shvK8N/47.ts
+http://iptv.alphacs.tv:8080/live/roja/roja/47.ts
+
+
+
+
+#EXTINF:-1,==========Italy==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7237.ts
+#EXTINF:-1,IT: Sky Arte HD
+http://iptv.alphacs.tv:8080/live/roja/roja/134.ts
+#EXTINF:-1,IT: Sky Atlantic HD
+http://iptv.alphacs.tv:8080/live/roja/roja/133.ts
+#EXTINF:-1,IT: Sky Atlantic +1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7218.ts
+#EXTINF:-1,IT: Sky Cinema 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/173.ts
+#EXTINF:-1,IT: Sky Cinema +1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7217.ts
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://iptv.alphacs.tv:8080/live/roja/roja/171.ts
+#EXTINF:-1,IT: Sky Cinema Cult HD
+http://iptv.alphacs.tv:8080/live/roja/roja/170.ts
+#EXTINF:-1,IT: Sky Cinema Family HD
+http://iptv.alphacs.tv:8080/live/roja/roja/169.ts
+#EXTINF:-1,IT: Sky Cinema Family +1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7219.ts
+#EXTINF:-1,IT: Sky Cinema Max HD
+http://iptv.alphacs.tv:8080/live/roja/roja/168.ts
+#EXTINF:-1,IT: Sky Cinema HITS HD
+http://iptv.alphacs.tv:8080/live/roja/roja/327.ts
+#EXTINF:-1,IT: Sky Cinema Classic HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4550.ts
+#EXTINF:-1,IT: Sky Cinema Passion HD
+http://iptv.alphacs.tv:8080/live/roja/roja/325.ts
+#EXTINF:-1,IT: Fox HD
+http://iptv.alphacs.tv:8080/live/roja/roja/142.ts
+#EXTINF:-1,IT: Fox +1 hd
+http://iptv.alphacs.tv:8080/live/roja/roja/7220.ts
+#EXTINF:-1,IT: Fox life HD
+http://iptv.alphacs.tv:8080/live/roja/roja/328.ts
+#EXTINF:-1,IT: Fox Comedy HD
+http://iptv.alphacs.tv:8080/live/roja/roja/182.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://iptv.alphacs.tv:8080/live/roja/roja/181.ts
+#EXTINF:-1,IT: Fox Sports HD
+http://iptv.alphacs.tv:8080/live/roja/roja/140.ts
+#EXTINF:-1,IT: Fox Animation HD
+http://iptv.alphacs.tv:8080/live/roja/roja/183.ts
+#EXTINF:-1,IT: Premium Action HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1752.ts
+#EXTINF:-1,IT: Mediaset italia 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1751.ts
+#EXTINF:-1,IT: La7d HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1749.ts
+#EXTINF:-1,IT: Italian Fishing TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1747.ts
+#EXTINF:-1,IT: DMAX
+http://iptv.alphacs.tv:8080/live/roja/roja/1746.ts
+#EXTINF:-1,IT: Canale 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1743.ts
+#EXTINF:-1,IT: ITV Italia
+http://iptv.alphacs.tv:8080/live/roja/roja/1744.ts
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/342.ts
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/340.ts
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3090.ts
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3091.ts
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3122.ts
+#EXTINF:-1,IT: Calcio 6 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3123.ts
+#EXTINF:-1,IT: Sky Calcio 7 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3124.ts
+#EXTINF:-1,IT: Sky Calcio 8 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3125.ts
+#EXTINF:-1,IT: Sky Calcio 9 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3126.ts
+#EXTINF:-1,IT: Sky Sport motogp HD
+http://iptv.alphacs.tv:8080/live/roja/roja/126.ts
+#EXTINF:-1,IT:  Sky Sport F1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/162.ts
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4554.ts
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4555.ts
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/164.ts
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/165.ts
+#EXTINF:-1,IT: Sport Italia
+http://iptv.alphacs.tv:8080/live/roja/roja/321.ts
+#EXTINF:-1,IT: Super Tennis HD
+http://iptv.alphacs.tv:8080/live/roja/roja/125.ts
+#EXTINF:-1,IT: Supercalcio HD.
+http://iptv.alphacs.tv:8080/live/roja/roja/322.ts
+#EXTINF:-1,IT: Eurosport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/185.ts
+#EXTINF:-1,IT: Inter Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/7223.ts
+#EXTINF:-1,IT: Milan Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/380.ts
+#EXTINF:-1,IT: Juventus Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/7221.ts
+#EXTINF:-1,IT: Roma Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/7222.ts
+#EXTINF:-1,IT: Sky Uno HD
+http://iptv.alphacs.tv:8080/live/roja/roja/147.ts
+#EXTINF:-1,IT: Discovery Sci HD
+http://iptv.alphacs.tv:8080/live/roja/roja/144.ts
+#EXTINF:-1,IT: Gambero Rosso HD
+http://iptv.alphacs.tv:8080/live/roja/roja/160.ts
+#EXTINF:-1,IT: La7 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/156.ts
+#EXTINF:-1,IT: Rai Sport 1
+http://iptv.alphacs.tv:8080/live/roja/roja/344.ts
+#EXTINF:-1,IT: Rai Movie
+http://iptv.alphacs.tv:8080/live/roja/roja/346.ts
+#EXTINF:-1,IT: Rai Gulp
+http://iptv.alphacs.tv:8080/live/roja/roja/347.ts
+#EXTINF:-1,IT: Rai Premium
+http://iptv.alphacs.tv:8080/live/roja/roja/345.ts
+#EXTINF:-1,IT: Rai 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/155.ts
+#EXTINF:-1,IT: Rai 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/154.ts
+#EXTINF:-1,IT: Rai 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/153.ts
+#EXTINF:-1,IT: Rai 4
+http://iptv.alphacs.tv:8080/live/roja/roja/152.ts
+#EXTINF:-1,IT: Rai 5
+http://iptv.alphacs.tv:8080/live/roja/roja/151.ts
+#EXTINF:-1,IT: Rete 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/150.ts
+#EXTINF:-1,IT: RSI La1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/149.ts
+#EXTINF:-1,IT: Super
+http://iptv.alphacs.tv:8080/live/roja/roja/319.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://iptv.alphacs.tv:8080/live/roja/roja/320.ts
+#EXTINF:-1,IT: Sky TG 24
+http://iptv.alphacs.tv:8080/live/roja/roja/378.ts
+#EXTINF:-1,IT: MTV8
+http://iptv.alphacs.tv:8080/live/roja/roja/379.ts
+#EXTINF:-1,IT: Focus
+http://iptv.alphacs.tv:8080/live/roja/roja/382.ts
+#EXTINF:-1,IT: Fineliving
+http://iptv.alphacs.tv:8080/live/roja/roja/383.ts
+#EXTINF:-1,IT: E!
+http://iptv.alphacs.tv:8080/live/roja/roja/384.ts
+#EXTINF:-1,IT: Animal Planet
+http://iptv.alphacs.tv:8080/live/roja/roja/390.ts
+#EXTINF:-1,IT:  History HD
+http://iptv.alphacs.tv:8080/live/roja/roja/159.ts
+#EXTINF:-1,IT: Discovery Travel Living HD
+http://iptv.alphacs.tv:8080/live/roja/roja/387.ts
+#EXTINF:-1,IT: Crime Investigation HD
+http://iptv.alphacs.tv:8080/live/roja/roja/331.ts
+#EXTINF:-1,IT: Discovery World
+http://iptv.alphacs.tv:8080/live/roja/roja/357.ts
+#EXTINF:-1,IT: NatGeo HD
+http://iptv.alphacs.tv:8080/live/roja/roja/326.ts
+#EXTINF:-1,IT: NatGeo People HD
+http://iptv.alphacs.tv:8080/live/roja/roja/139.ts
+#EXTINF:-1,IT: NatGeo Wild HD
+http://iptv.alphacs.tv:8080/live/roja/roja/179.ts
+#EXTINF:-1,IT: Italia 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/158.ts
+#EXTINF:-1,IT: Disney channel
+http://iptv.alphacs.tv:8080/live/roja/roja/385.ts
+#EXTINF:-1,IT: CartoonNetwork
+http://iptv.alphacs.tv:8080/live/roja/roja/365.ts
+#EXTINF:-1,IT: Disney XD
+http://iptv.alphacs.tv:8080/live/roja/roja/329.ts
+#EXTINF:-1,IT: Disney Junior
+http://iptv.alphacs.tv:8080/live/roja/roja/355.ts
+#EXTINF:-1,IT: Cartonito
+http://iptv.alphacs.tv:8080/live/roja/roja/388.ts
+#EXTINF:-1,IT: BBC
+http://iptv.alphacs.tv:8080/live/roja/roja/375.ts
+#EXTINF:-1,IT: AXN HD
+http://iptv.alphacs.tv:8080/live/roja/roja/389.ts
+#EXTINF:-1,IT: Alice
+http://iptv.alphacs.tv:8080/live/roja/roja/391.ts
+#EXTINF:-1,IT: Mediaset TOP crime
+http://iptv.alphacs.tv:8080/live/roja/roja/318.ts
+#EXTINF:-1,IT: Mediaset Canale 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/161.ts
+#EXTINF:-1,IT: Mediaset extra
+http://iptv.alphacs.tv:8080/live/roja/roja/381.ts
+#EXTINF:-1,IT: Premium Discovery HD
+http://iptv.alphacs.tv:8080/live/roja/roja/330.ts
+#EXTINF:-1,IT: Premium Stories
+http://iptv.alphacs.tv:8080/live/roja/roja/348.ts
+#EXTINF:-1,IT: Premium Sport HD
+http://iptv.alphacs.tv:8080/live/roja/roja/349.ts
+#EXTINF:-1,IT: Premium Comedy
+http://iptv.alphacs.tv:8080/live/roja/roja/360.ts
+#EXTINF:-1,IT: Premium Crime + 24
+http://iptv.alphacs.tv:8080/live/roja/roja/359.ts
+#EXTINF:-1,IT: Premium Energy
+http://iptv.alphacs.tv:8080/live/roja/roja/353.ts
+#EXTINF:-1,IT: Premium Emotion
+http://iptv.alphacs.tv:8080/live/roja/roja/354.ts
+#EXTINF:-1,IT: Premium Cinema HD
+http://iptv.alphacs.tv:8080/live/roja/roja/361.ts
+#EXTINF:-1,IT: Premium Cinema 24 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/364.ts
+#EXTINF:-1,IT: Premium Joi
+http://iptv.alphacs.tv:8080/live/roja/roja/350.ts
+#EXTINF:-1,IT: Premium Cinema 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/362.ts
+#EXTINF:-1,IT: Premium Cinema 2 24
+http://iptv.alphacs.tv:8080/live/roja/roja/363.ts
+#EXTINF:-1,IT: Premium Action 24 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/377.ts
+#EXTINF:-1,IT: Premium Calcio HD
+http://iptv.alphacs.tv:8080/live/roja/roja/367.ts
+#EXTINF:-1,IT: Premium Calcio
+http://iptv.alphacs.tv:8080/live/roja/roja/366.ts
+#EXTINF:-1,IT: Premium Calcio 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/374.ts
+#EXTINF:-1,IT: Premium Calcio 2
+http://iptv.alphacs.tv:8080/live/roja/roja/373.ts
+#EXTINF:-1,IT: Premium Calcio 3
+http://iptv.alphacs.tv:8080/live/roja/roja/372.ts
+#EXTINF:-1,IT: Premium Calcio 4
+http://iptv.alphacs.tv:8080/live/roja/roja/371.ts
+#EXTINF:-1,IT: Premium Calcio 5
+http://iptv.alphacs.tv:8080/live/roja/roja/370.ts
+#EXTINF:-1,IT: Premium Calcio 6
+http://iptv.alphacs.tv:8080/live/roja/roja/369.ts
+#EXTINF:-1,IT: Premium Calcio 7
+http://iptv.alphacs.tv:8080/live/roja/roja/368.ts
+#EXTINF:-1,IT: Prima Fila 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1767.ts
+#EXTINF:-1,IT: Prima Fila 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/602.ts
+#EXTINF:-1,IT: Prima Fila 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/589.ts
+#EXTINF:-1,IT: Prima Fila 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/590.ts
+#EXTINF:-1,IT: Prima Fila 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/591.ts
+#EXTINF:-1,IT: Prima Fila 6 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/592.ts
+#EXTINF:-1,IT: Prima Fila 7 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/593.ts
+#EXTINF:-1,IT: Prima Fila 8 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/594.ts
+#EXTINF:-1,IT: Prima Fila 9 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/595.ts
+#EXTINF:-1,IT: Prima Fila 11 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/597.ts
+#EXTINF:-1,IT: Prima Fila 10 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/596.ts
+#EXTINF:-1,IT: Prima Fila 12 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/598.ts
+#EXTINF:-1,IT: Prima Fila 13 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/599.ts
+#EXTINF:-1,IT: Prima Fila 14 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/600.ts
+#EXTINF:-1,IT: Prima Fila 15 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4551.ts
+#EXTINF:-1,IT: Prima Fila 16 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4552.ts
+#EXTINF:-1,IT: Prima Fila 17 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4553.ts
+#EXTINF:-1,==========Germany==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7232.ts
+#EXTINF:-1,DE: WDR HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9200.ts
+#EXTINF:-1,DE: Sports 1 USA HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9208.ts
+#EXTINF:-1,DE: Sportdigital HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9207.ts
+#EXTINF:-1,DE: Sony TV HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9205.ts
+#EXTINF:-1,DE: Sky Fan Zone HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9204.ts
+#EXTINF:-1,DE: Discovery Science HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9206.ts
+#EXTINF:-1,DE Super RTL HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9198.ts
+#EXTINF:-1,DE Sixx HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9203.ts
+#EXTINF:-1,DE PRO 7 MAXX
+http://iptv.alphacs.tv:8080/live/roja/roja/9199.ts
+#EXTINF:-1,DE Ndr HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9201.ts
+#EXTINF:-1,DE DMAX HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9202.ts
+#EXTINF:-1,DE: ARD
+http://iptv.alphacs.tv:8080/live/roja/roja/7192.ts
+#EXTINF:-1,DE: ZDF KULTUR
+http://iptv.alphacs.tv:8080/live/roja/roja/7204.ts
+#EXTINF:-1,DE: ZDF
+http://iptv.alphacs.tv:8080/live/roja/roja/7193.ts
+#EXTINF:-1,DE: Vox HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1765.ts
+#EXTINF:-1,DE: TAGESSCHAU 24
+http://iptv.alphacs.tv:8080/live/roja/roja/7205.ts
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3089.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3088.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3087.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3086.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3085.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3084.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3083.ts
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/3082.ts
+#EXTINF:-1,DE: N24
+http://iptv.alphacs.tv:8080/live/roja/roja/7198.ts
+#EXTINF:-1,DE: HISTORY HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7203.ts
+#EXTINF:-1,DE: Eurosport HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1764.ts
+#EXTINF:-1,DE: Sport 1+ HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1447.ts
+#EXTINF:-1,DE: SPORT 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1448.ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1445.ts
+#EXTINF:-1,DE: Sky Sport News
+http://iptv.alphacs.tv:8080/live/roja/roja/3719.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1443.ts
+#EXTINF:-1,DE: Sky Sport 2
+http://iptv.alphacs.tv:8080/live/roja/roja/3721.ts
+#EXTINF:-1,DE: Sky Sport 2.
+http://iptv.alphacs.tv:8080/live/roja/roja/221.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1441.ts
+#EXTINF:-1,DE: Sky Sport 1
+http://iptv.alphacs.tv:8080/live/roja/roja/3720.ts
+#EXTINF:-1,DE: Sky Sport 1.
+http://iptv.alphacs.tv:8080/live/roja/roja/220.ts
+#EXTINF:-1,DE: Sky Sport Austria
+http://iptv.alphacs.tv:8080/live/roja/roja/1439.ts
+#EXTINF:-1,DE: Sport 1 US HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1446.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1431.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 weekend only
+http://iptv.alphacs.tv:8080/live/roja/roja/7337.ts
+#EXTINF:-1,DE: Sky Bundesliga 2 weekend only
+http://iptv.alphacs.tv:8080/live/roja/roja/1432.ts
+#EXTINF:-1,DE: Sky Bundesliga 3 weekend only
+http://iptv.alphacs.tv:8080/live/roja/roja/1433.ts
+#EXTINF:-1,DE: Sky Bundesliga 4 weekend only
+http://iptv.alphacs.tv:8080/live/roja/roja/7338.ts
+#EXTINF:-1,DE: Sky Bundesliga 5 weekend only
+http://iptv.alphacs.tv:8080/live/roja/roja/1434.ts
+#EXTINF:-1,DE: Sat 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1430.ts
+#EXTINF:-1,DE: RTL HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1429.ts
+#EXTINF:-1,DE: Pro Sieben Maxx HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1428.ts
+#EXTINF:-1,DE: Pro Sieben HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1427.ts
+#EXTINF:-1,DE: Passion
+http://iptv.alphacs.tv:8080/live/roja/roja/1426.ts
+#EXTINF:-1,DE: N-TV HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1425.ts
+#EXTINF:-1,DE: Motorvision TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1424.ts
+#EXTINF:-1,DE: Kabel Eins
+http://iptv.alphacs.tv:8080/live/roja/roja/1423.ts
+#EXTINF:-1,DE: Kabel 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1422.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://iptv.alphacs.tv:8080/live/roja/roja/1421.ts
+#EXTINF:-1,DE: Deluxe Music HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1420.ts
+#EXTINF:-1,DE: Classica Deutschland
+http://iptv.alphacs.tv:8080/live/roja/roja/1419.ts
+#EXTINF:-1,DE: TNT Serie
+http://iptv.alphacs.tv:8080/live/roja/roja/239.ts
+#EXTINF:-1,DE: TNT Film
+http://iptv.alphacs.tv:8080/live/roja/roja/238.ts
+#EXTINF:-1,DE: TLC
+http://iptv.alphacs.tv:8080/live/roja/roja/237.ts
+#EXTINF:-1,DE: Syfy HD
+http://iptv.alphacs.tv:8080/live/roja/roja/236.ts
+#EXTINF:-1,DE: SUPER RTL
+http://iptv.alphacs.tv:8080/live/roja/roja/224.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://iptv.alphacs.tv:8080/live/roja/roja/235.ts
+#EXTINF:-1,DE: SKYDESPAU
+http://iptv.alphacs.tv:8080/live/roja/roja/222.ts
+#EXTINF:-1,DE: SKYDEBU1
+http://iptv.alphacs.tv:8080/live/roja/roja/219.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://iptv.alphacs.tv:8080/live/roja/roja/234.ts
+#EXTINF:-1,DE: Sky Krimi
+http://iptv.alphacs.tv:8080/live/roja/roja/233.ts
+#EXTINF:-1,DE: Sky Hits
+http://iptv.alphacs.tv:8080/live/roja/roja/232.ts
+#EXTINF:-1,DE: Sky Emotion
+http://iptv.alphacs.tv:8080/live/roja/roja/231.ts
+#EXTINF:-1,DE: Sky Comedy
+http://iptv.alphacs.tv:8080/live/roja/roja/230.ts
+#EXTINF:-1,DE: Sky Cinema24
+http://iptv.alphacs.tv:8080/live/roja/roja/229.ts
+#EXTINF:-1,DE: Sky Cinema+1
+http://iptv.alphacs.tv:8080/live/roja/roja/228.ts
+#EXTINF:-1,DE: Sky Cinema
+http://iptv.alphacs.tv:8080/live/roja/roja/227.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://iptv.alphacs.tv:8080/live/roja/roja/226.ts
+#EXTINF:-1,DE: Sky Action
+http://iptv.alphacs.tv:8080/live/roja/roja/225.ts
+#EXTINF:-1,DE: SIXX HD
+http://iptv.alphacs.tv:8080/live/roja/roja/218.ts
+#EXTINF:-1,DE: RTL2
+http://iptv.alphacs.tv:8080/live/roja/roja/212.ts
+#EXTINF:-1,DE: RTL1
+http://iptv.alphacs.tv:8080/live/roja/roja/211.ts
+#EXTINF:-1,DE: RTL Passion
+http://iptv.alphacs.tv:8080/live/roja/roja/216.ts
+#EXTINF:-1,DE: RTL NITRO
+http://iptv.alphacs.tv:8080/live/roja/roja/215.ts
+#EXTINF:-1,DE: RTL LIVING
+http://iptv.alphacs.tv:8080/live/roja/roja/214.ts
+#EXTINF:-1,DE: RTL Crime
+http://iptv.alphacs.tv:8080/live/roja/roja/213.ts
+#EXTINF:-1,DE: RomanceTV
+http://iptv.alphacs.tv:8080/live/roja/roja/217.ts
+#EXTINF:-1,DE: Nick Jr
+http://iptv.alphacs.tv:8080/live/roja/roja/210.ts
+#EXTINF:-1,DE: NatGeo Wild DE
+http://iptv.alphacs.tv:8080/live/roja/roja/209.ts
+#EXTINF:-1,DE: Nat GEO
+http://iptv.alphacs.tv:8080/live/roja/roja/208.ts
+#EXTINF:-1,DE: MGM DE
+http://iptv.alphacs.tv:8080/live/roja/roja/206.ts
+#EXTINF:-1,DE: KinoweltTV
+http://iptv.alphacs.tv:8080/live/roja/roja/204.ts
+#EXTINF:-1,DE: Junior
+http://iptv.alphacs.tv:8080/live/roja/roja/203.ts
+#EXTINF:-1,DE: Jukebox
+http://iptv.alphacs.tv:8080/live/roja/roja/202.ts
+#EXTINF:-1,DE: Heimatkanal
+http://iptv.alphacs.tv:8080/live/roja/roja/201.ts
+#EXTINF:-1,DE: Kika
+http://iptv.alphacs.tv:8080/live/roja/roja/200.ts
+#EXTINF:-1,DE: Fox Serie DE
+http://iptv.alphacs.tv:8080/live/roja/roja/199.ts
+#EXTINF:-1,DE: FOX
+http://iptv.alphacs.tv:8080/live/roja/roja/198.ts
+#EXTINF:-1,DE: DisneyCH DE
+http://iptv.alphacs.tv:8080/live/roja/roja/242.ts
+#EXTINF:-1,DE: Disney XD
+http://iptv.alphacs.tv:8080/live/roja/roja/195.ts
+#EXTINF:-1,DE: Disney Junior DE
+http://iptv.alphacs.tv:8080/live/roja/roja/194.ts
+#EXTINF:-1,DE: Discovery Channel DE
+http://iptv.alphacs.tv:8080/live/roja/roja/196.ts
+#EXTINF:-1,DE: Classica
+http://iptv.alphacs.tv:8080/live/roja/roja/241.ts
+#EXTINF:-1,DE: AXN Action
+http://iptv.alphacs.tv:8080/live/roja/roja/189.ts
+#EXTINF:-1,DE: ANIXE
+http://iptv.alphacs.tv:8080/live/roja/roja/240.ts
+#EXTINF:-1,DE: A E DE
+http://iptv.alphacs.tv:8080/live/roja/roja/190.ts
+#EXTINF:-1,DE: 13th Street HD
+http://iptv.alphacs.tv:8080/live/roja/roja/187.ts
+#EXTINF:-1,==========Adults==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7245.ts
+#EXTINF:-1,XXX: PassionXXX
+http://iptv.alphacs.tv:8080/live/roja/roja/1417.ts
+#EXTINF:-1,XXX: Sexto Senso
+http://iptv.alphacs.tv:8080/live/roja/roja/1415.ts
+#EXTINF:-1,XXX: SCT HQ
+http://iptv.alphacs.tv:8080/live/roja/roja/1414.ts
+#EXTINF:-1,XXX: SCT HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1413.ts
+#EXTINF:-1,XXX: Redlight HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1412.ts
+#EXTINF:-1,XXX: Privee TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1411.ts
+#EXTINF:-1,XXX: Platinum TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1410.ts
+#EXTINF:-1,XXX: Pink o TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1409.ts
+#EXTINF:-1,XXX: Hustler HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1406.ts
+#EXTINF:-1,XXX: Hustler
+http://iptv.alphacs.tv:8080/live/roja/roja/1405.ts
+#EXTINF:-1,XXX: Venus
+http://iptv.alphacs.tv:8080/live/roja/roja/395.ts
+#EXTINF:-1,XXX: Private
+http://iptv.alphacs.tv:8080/live/roja/roja/398.ts
+#EXTINF:-1,XXX: PLAYBOY
+http://iptv.alphacs.tv:8080/live/roja/roja/396.ts
+#EXTINF:-1,XXX: Penthouse
+http://iptv.alphacs.tv:8080/live/roja/roja/393.ts
+#EXTINF:-1,XXX: Boy&Boy
+http://iptv.alphacs.tv:8080/live/roja/roja/399.ts
+#EXTINF:-1,XXX: Frenchlover TV
+http://iptv.alphacs.tv:8080/live/roja/roja/397.ts
+#EXTINF:-1,XXX: Brazzers
+http://iptv.alphacs.tv:8080/live/roja/roja/394.ts
+#EXTINF:-1,==========Portugal==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7243.ts
+#EXTINF:-1,PT: TVI24
+http://iptv.alphacs.tv:8080/live/roja/roja/665.ts
+#EXTINF:-1,PT: TVI Reality
+http://iptv.alphacs.tv:8080/live/roja/roja/664.ts
+#EXTINF:-1,PT: TV record
+http://iptv.alphacs.tv:8080/live/roja/roja/735.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://iptv.alphacs.tv:8080/live/roja/roja/621.ts
+#EXTINF:-1,PT: TV Globo
+http://iptv.alphacs.tv:8080/live/roja/roja/669.ts
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://iptv.alphacs.tv:8080/live/roja/roja/706.ts
+#EXTINF:-1,PT: TV CINE 1
+http://iptv.alphacs.tv:8080/live/roja/roja/701.ts
+#EXTINF:-1,PT: TV CINE 2
+http://iptv.alphacs.tv:8080/live/roja/roja/700.ts
+#EXTINF:-1,PT: TV CINE 3
+http://iptv.alphacs.tv:8080/live/roja/roja/699.ts
+#EXTINF:-1,PT: TV CINE 4
+http://iptv.alphacs.tv:8080/live/roja/roja/698.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7252.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://iptv.alphacs.tv:8080/live/roja/roja/676.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7253.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://iptv.alphacs.tv:8080/live/roja/roja/675.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7254.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://iptv.alphacs.tv:8080/live/roja/roja/674.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://iptv.alphacs.tv:8080/live/roja/roja/673.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://iptv.alphacs.tv:8080/live/roja/roja/672.ts
+#EXTINF:-1,PT: EUROSPORT HD
+http://iptv.alphacs.tv:8080/live/roja/roja/681.ts
+#EXTINF:-1,PT: Eurosport 1
+http://iptv.alphacs.tv:8080/live/roja/roja/629.ts
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/682.ts
+#EXTINF:-1,PT: Eurosport 2
+http://iptv.alphacs.tv:8080/live/roja/roja/628.ts
+#EXTINF:-1,PT: BARCA TV
+http://iptv.alphacs.tv:8080/live/roja/roja/640.ts
+#EXTINF:-1,PT: BENFICA TV 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/728.ts
+#EXTINF:-1,PT: BENFICA TV 1
+http://iptv.alphacs.tv:8080/live/roja/roja/727.ts
+#EXTINF:-1,PT: Chelsea TV
+http://iptv.alphacs.tv:8080/live/roja/roja/630.ts
+#EXTINF:-1,PT: SPORTING TV HD
+http://iptv.alphacs.tv:8080/live/roja/roja/678.ts
+#EXTINF:-1,PT: Motorvision
+http://iptv.alphacs.tv:8080/live/roja/roja/685.ts
+#EXTINF:-1,PT: Motors TV
+http://iptv.alphacs.tv:8080/live/roja/roja/627.ts
+#EXTINF:-1,PT: A Bola TV
+http://iptv.alphacs.tv:8080/live/roja/roja/631.ts
+#EXTINF:-1,PT: SIC
+http://iptv.alphacs.tv:8080/live/roja/roja/617.ts
+#EXTINF:-1,PT: SIC K
+http://iptv.alphacs.tv:8080/live/roja/roja/655.ts
+#EXTINF:-1,PT: SIC Radical
+http://iptv.alphacs.tv:8080/live/roja/roja/667.ts
+#EXTINF:-1,PT: SIC Mulher
+http://iptv.alphacs.tv:8080/live/roja/roja/666.ts
+#EXTINF:-1,PT: SIC Noticias
+http://iptv.alphacs.tv:8080/live/roja/roja/668.ts
+#EXTINF:-1,PT: RTP 1
+http://iptv.alphacs.tv:8080/live/roja/roja/615.ts
+#EXTINF:-1,PT: RTP 2
+http://iptv.alphacs.tv:8080/live/roja/roja/616.ts
+#EXTINF:-1,PT: RTP 3
+http://iptv.alphacs.tv:8080/live/roja/roja/659.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://iptv.alphacs.tv:8080/live/roja/roja/663.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://iptv.alphacs.tv:8080/live/roja/roja/732.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://iptv.alphacs.tv:8080/live/roja/roja/733.ts
+#EXTINF:-1,PT: RTP ACORES
+http://iptv.alphacs.tv:8080/live/roja/roja/734.ts
+#EXTINF:-1,PT: Discovery Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/724.ts
+#EXTINF:-1,PT: DISCOVERY HD SHOWCASE
+http://iptv.alphacs.tv:8080/live/roja/roja/725.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://iptv.alphacs.tv:8080/live/roja/roja/719.ts
+#EXTINF:-1,PT: NATIONAL GEO  WILD
+http://iptv.alphacs.tv:8080/live/roja/roja/720.ts
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
+http://iptv.alphacs.tv:8080/live/roja/roja/723.ts
+#EXTINF:-1,PT: Afro Music
+http://iptv.alphacs.tv:8080/live/roja/roja/641.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://iptv.alphacs.tv:8080/live/roja/roja/702.ts
+#EXTINF:-1,PT: Odisseia
+http://iptv.alphacs.tv:8080/live/roja/roja/722.ts
+#EXTINF:-1,PT: TLC
+http://iptv.alphacs.tv:8080/live/roja/roja/705.ts
+#EXTINF:-1,PT: CANAL Historia
+http://iptv.alphacs.tv:8080/live/roja/roja/721.ts
+#EXTINF:-1,PT: Hollywood
+http://iptv.alphacs.tv:8080/live/roja/roja/649.ts
+#EXTINF:-1,PT: 24KITCHEN HD
+http://iptv.alphacs.tv:8080/live/roja/roja/708.ts
+#EXTINF:-1,PT: VH1
+http://iptv.alphacs.tv:8080/live/roja/roja/7256.ts
+#EXTINF:-1,PT: MTV
+http://iptv.alphacs.tv:8080/live/roja/roja/710.ts
+#EXTINF:-1,PT: Toros TV
+http://iptv.alphacs.tv:8080/live/roja/roja/683.ts
+#EXTINF:-1,PT:  PORTO Canal
+http://iptv.alphacs.tv:8080/live/roja/roja/680.ts
+#EXTINF:-1,PT: PFC
+http://iptv.alphacs.tv:8080/live/roja/roja/679.ts
+#EXTINF:-1,PT: SBS Reality
+http://iptv.alphacs.tv:8080/live/roja/roja/671.ts
+#EXTINF:-1,PT: CaÃ§a e Pesca
+http://iptv.alphacs.tv:8080/live/roja/roja/684.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/633.ts
+#EXTINF:-1,PT: BTV 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/677.ts
+#EXTINF:-1,PT: BTV 2
+http://iptv.alphacs.tv:8080/live/roja/roja/662.ts
+#EXTINF:-1,PT: Fox HD
+http://iptv.alphacs.tv:8080/live/roja/roja/651.ts
+#EXTINF:-1,PT: Fox Movies
+http://iptv.alphacs.tv:8080/live/roja/roja/646.ts
+#EXTINF:-1,PT: Fox Crime HD
+http://iptv.alphacs.tv:8080/live/roja/roja/647.ts
+#EXTINF:-1,PT: FOX SPORTS 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/687.ts
+#EXTINF:-1,PT: Fox Life HD
+http://iptv.alphacs.tv:8080/live/roja/roja/711.ts
+#EXTINF:-1,PT: Fox Comeny
+http://iptv.alphacs.tv:8080/live/roja/roja/707.ts
+#EXTINF:-1,PT: AXN HD
+http://iptv.alphacs.tv:8080/live/roja/roja/653.ts
+#EXTINF:-1,PT: AXN White HD
+http://iptv.alphacs.tv:8080/live/roja/roja/652.ts
+#EXTINF:-1,PT: AXN Black HD
+http://iptv.alphacs.tv:8080/live/roja/roja/704.ts
+#EXTINF:-1,PT: Cinemundo
+http://iptv.alphacs.tv:8080/live/roja/roja/648.ts
+#EXTINF:-1,PT: A&E.
+http://iptv.alphacs.tv:8080/live/roja/roja/726.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://iptv.alphacs.tv:8080/live/roja/roja/644.ts
+#EXTINF:-1,PT: MOV HD
+http://iptv.alphacs.tv:8080/live/roja/roja/643.ts
+#EXTINF:-1,PT: A&E
+http://iptv.alphacs.tv:8080/live/roja/roja/642.ts
+#EXTINF:-1,PT: SYFY
+http://iptv.alphacs.tv:8080/live/roja/roja/645.ts
+#EXTINF:-1,PT: CMTV
+http://iptv.alphacs.tv:8080/live/roja/roja/625.ts
+#EXTINF:-1,PT: AMC
+http://iptv.alphacs.tv:8080/live/roja/roja/654.ts
+#EXTINF:-1,PT: NICKELODEON
+http://iptv.alphacs.tv:8080/live/roja/roja/690.ts
+#EXTINF:-1,PT: Baby Tv
+http://iptv.alphacs.tv:8080/live/roja/roja/695.ts
+#EXTINF:-1,PT: Cartoon
+http://iptv.alphacs.tv:8080/live/roja/roja/694.ts
+#EXTINF:-1,PT: JIM JAM
+http://iptv.alphacs.tv:8080/live/roja/roja/692.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/roja/roja/689.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://iptv.alphacs.tv:8080/live/roja/roja/691.ts
+#EXTINF:-1,==========Netherlands==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7234.ts
+#EXTINF:-1,NL: Film 1 Comedy and Kids
+http://iptv.alphacs.tv:8080/live/roja/roja/814.ts
+#EXTINF:-1,NL: Film 1 Premiere
+http://iptv.alphacs.tv:8080/live/roja/roja/815.ts
+#EXTINF:-1,NL: Veronica
+http://iptv.alphacs.tv:8080/live/roja/roja/750.ts
+#EXTINF:-1,NL: Kitchen
+http://iptv.alphacs.tv:8080/live/roja/roja/812.ts
+#EXTINF:-1,NL: TV 538
+http://iptv.alphacs.tv:8080/live/roja/roja/801.ts
+#EXTINF:-1,NL: Film 1 Action
+http://iptv.alphacs.tv:8080/live/roja/roja/796.ts
+#EXTINF:-1,NL: MTV 24
+http://iptv.alphacs.tv:8080/live/roja/roja/816.ts
+#EXTINF:-1,NL: Sports 1 Exstra
+http://iptv.alphacs.tv:8080/live/roja/roja/767.ts
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://iptv.alphacs.tv:8080/live/roja/roja/769.ts
+#EXTINF:-1,NL: Sport 1 Select
+http://iptv.alphacs.tv:8080/live/roja/roja/770.ts
+#EXTINF:-1,NL: Sport 1 Racing
+http://iptv.alphacs.tv:8080/live/roja/roja/772.ts
+#EXTINF:-1,NL: Sport 1 Golf
+http://iptv.alphacs.tv:8080/live/roja/roja/771.ts
+#EXTINF:-1,NL: Sport 1 Extra 2
+http://iptv.alphacs.tv:8080/live/roja/roja/768.ts
+#EXTINF:-1,NL: NPO 101
+http://iptv.alphacs.tv:8080/live/roja/roja/817.ts
+#EXTINF:-1,NL: SBS 9
+http://iptv.alphacs.tv:8080/live/roja/roja/749.ts
+#EXTINF:-1,NL: SBS 6
+http://iptv.alphacs.tv:8080/live/roja/roja/746.ts
+#EXTINF:-1,NL: NPO Zapp Xtra
+http://iptv.alphacs.tv:8080/live/roja/roja/818.ts
+#EXTINF:-1,NL: RTV 7
+http://iptv.alphacs.tv:8080/live/roja/roja/811.ts
+#EXTINF:-1,NL: CI
+http://iptv.alphacs.tv:8080/live/roja/roja/791.ts
+#EXTINF:-1,NL: RTL 8
+http://iptv.alphacs.tv:8080/live/roja/roja/748.ts
+#EXTINF:-1,NL: RTL 7
+http://iptv.alphacs.tv:8080/live/roja/roja/747.ts
+#EXTINF:-1,NL: RTL 5
+http://iptv.alphacs.tv:8080/live/roja/roja/745.ts
+#EXTINF:-1,NL: RTL 4
+http://iptv.alphacs.tv:8080/live/roja/roja/744.ts
+#EXTINF:-1,NL: Salem
+http://iptv.alphacs.tv:8080/live/roja/roja/822.ts
+#EXTINF:-1,NL: SYFY
+http://iptv.alphacs.tv:8080/live/roja/roja/826.ts
+#EXTINF:-1,NL: TV ORANJE
+http://iptv.alphacs.tv:8080/live/roja/roja/828.ts
+#EXTINF:-1,NL: TLC
+http://iptv.alphacs.tv:8080/live/roja/roja/792.ts
+#EXTINF:-1,NL: TV Oost
+http://iptv.alphacs.tv:8080/live/roja/roja/794.ts
+#EXTINF:-1,NL: NPO 1
+http://iptv.alphacs.tv:8080/live/roja/roja/741.ts
+#EXTINF:-1,NL: NPO 2
+http://iptv.alphacs.tv:8080/live/roja/roja/742.ts
+#EXTINF:-1,NL: NPO 3
+http://iptv.alphacs.tv:8080/live/roja/roja/743.ts
+#EXTINF:-1,NL: Nicktoons
+http://iptv.alphacs.tv:8080/live/roja/roja/777.ts
+#EXTINF:-1,NL: Nickelodeon
+http://iptv.alphacs.tv:8080/live/roja/roja/779.ts
+#EXTINF:-1,NL: Nick Jr
+http://iptv.alphacs.tv:8080/live/roja/roja/780.ts
+#EXTINF:-1,NL: NET 5
+http://iptv.alphacs.tv:8080/live/roja/roja/751.ts
+#EXTINF:-1,NL: MTV Music 24
+http://iptv.alphacs.tv:8080/live/roja/roja/803.ts
+#EXTINF:-1,NL: MTV
+http://iptv.alphacs.tv:8080/live/roja/roja/802.ts
+#EXTINF:-1,NL: Zigo Sport Racing
+http://iptv.alphacs.tv:8080/live/roja/roja/775.ts
+#EXTINF:-1,NL: BBC Entertainment
+http://iptv.alphacs.tv:8080/live/roja/roja/805.ts
+#EXTINF:-1,NL: Ketnet
+http://iptv.alphacs.tv:8080/live/roja/roja/785.ts
+#EXTINF:-1,NL: Comedy Central extra
+http://iptv.alphacs.tv:8080/live/roja/roja/797.ts
+#EXTINF:-1,NL: HBO 1
+http://iptv.alphacs.tv:8080/live/roja/roja/757.ts
+#EXTINF:-1,NL: HBO 2
+http://iptv.alphacs.tv:8080/live/roja/roja/758.ts
+#EXTINF:-1,NL: HBO 3
+http://iptv.alphacs.tv:8080/live/roja/roja/759.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://iptv.alphacs.tv:8080/live/roja/roja/761.ts
+#EXTINF:-1,NL: Fox Sports 2
+http://iptv.alphacs.tv:8080/live/roja/roja/762.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://iptv.alphacs.tv:8080/live/roja/roja/763.ts
+#EXTINF:-1,NL: Fox Sports 4
+http://iptv.alphacs.tv:8080/live/roja/roja/764.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://iptv.alphacs.tv:8080/live/roja/roja/765.ts
+#EXTINF:-1,NL: Fox Sports 6 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/766.ts
+#EXTINF:-1,NL: Fox
+http://iptv.alphacs.tv:8080/live/roja/roja/790.ts
+#EXTINF:-1,NL: Film1 Sundance
+http://iptv.alphacs.tv:8080/live/roja/roja/754.ts
+#EXTINF:-1,NL: Film1 Premiere
+http://iptv.alphacs.tv:8080/live/roja/roja/752.ts
+#EXTINF:-1,NL: Film1 Comedy
+http://iptv.alphacs.tv:8080/live/roja/roja/755.ts
+#EXTINF:-1,NL: Film1 Action
+http://iptv.alphacs.tv:8080/live/roja/roja/753.ts
+#EXTINF:-1,NL: Film 1 Spotlight
+http://iptv.alphacs.tv:8080/live/roja/roja/756.ts
+#EXTINF:-1,NL: Zigo Sport
+http://iptv.alphacs.tv:8080/live/roja/roja/773.ts
+#EXTINF:-1,NL: Eurosport 2
+http://iptv.alphacs.tv:8080/live/roja/roja/776.ts
+#EXTINF:-1,NL: Zigo Sport Golf
+http://iptv.alphacs.tv:8080/live/roja/roja/774.ts
+#EXTINF:-1,NL: E! Entertainment
+http://iptv.alphacs.tv:8080/live/roja/roja/804.ts
+#EXTINF:-1,NL: E! Enternainment
+http://iptv.alphacs.tv:8080/live/roja/roja/786.ts
+#EXTINF:-1,NL: Canvas
+http://iptv.alphacs.tv:8080/live/roja/roja/806.ts
+#EXTINF:-1,NL: Discovery Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/798.ts
+#EXTINF:-1,NL: Crime & Investigation.
+http://iptv.alphacs.tv:8080/live/roja/roja/799.ts
+#EXTINF:-1,NL: Comedy Central Family
+http://iptv.alphacs.tv:8080/live/roja/roja/789.ts
+#EXTINF:-1,NL: Comedy Central Exstra
+http://iptv.alphacs.tv:8080/live/roja/roja/778.ts
+#EXTINF:-1,NL: Disney Junior
+http://iptv.alphacs.tv:8080/live/roja/roja/800.ts
+#EXTINF:-1,NL: National Geographic
+http://iptv.alphacs.tv:8080/live/roja/roja/807.ts
+#EXTINF:-1,NL: Baby TV
+http://iptv.alphacs.tv:8080/live/roja/roja/781.ts
+#EXTINF:-1,NL: AT-5
+http://iptv.alphacs.tv:8080/live/roja/roja/787.ts
+#EXTINF:-1,NL: RTV Drenthe
+http://iptv.alphacs.tv:8080/live/roja/roja/810.ts
+#EXTINF:-1,NL: 100% NL
+http://iptv.alphacs.tv:8080/live/roja/roja/809.ts
+#EXTINF:-1,NL: 192 TV
+http://iptv.alphacs.tv:8080/live/roja/roja/788.ts
+#EXTINF:-1,NL: 13TH Street
+http://iptv.alphacs.tv:8080/live/roja/roja/760.ts
+#EXTINF:-1,==========United Kindom==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7233.ts
+#EXTINF:-1,UK: ITV ENCORE
+http://iptv.alphacs.tv:8080/live/roja/roja/7206.ts
+#EXTINF:-1,UK: CHANNEL 5 STAR
+http://iptv.alphacs.tv:8080/live/roja/roja/7208.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://iptv.alphacs.tv:8080/live/roja/roja/7207.ts
+#EXTINF:-1,UK: RTE 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4884.ts
+#EXTINF:-1,UK: RTE 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4883.ts
+#EXTINF:-1,UK: VH1
+http://iptv.alphacs.tv:8080/live/roja/roja/1583.ts
+#EXTINF:-1,UK: TLC Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1582.ts
+#EXTINF:-1,UK: Bloomberg
+http://iptv.alphacs.tv:8080/live/roja/roja/1581.ts
+#EXTINF:-1,UK: TCM
+http://iptv.alphacs.tv:8080/live/roja/roja/1580.ts
+#EXTINF:-1,UK: Sony Movie Channel  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1579.ts
+#EXTINF:-1,UK: Sony Movie Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/1578.ts
+#EXTINF:-1,UK: Travel Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/1577.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://iptv.alphacs.tv:8080/live/roja/roja/1576.ts
+#EXTINF:-1,UK: Sky News Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1574.ts
+#EXTINF:-1,UK: Sky News
+http://iptv.alphacs.tv:8080/live/roja/roja/1575.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi&Horror
+http://iptv.alphacs.tv:8080/live/roja/roja/1573.ts
+#EXTINF:-1,UK: Sky Movies Premiere  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1572.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+http://iptv.alphacs.tv:8080/live/roja/roja/1571.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://iptv.alphacs.tv:8080/live/roja/roja/1570.ts
+#EXTINF:-1,UK: Sky Movies Drama&Romance
+http://iptv.alphacs.tv:8080/live/roja/roja/1569.ts
+#EXTINF:-1,UK: Sky Movies Crime&Thriller
+http://iptv.alphacs.tv:8080/live/roja/roja/1568.ts
+#EXTINF:-1,UK: Sky Movies Action&Adventure
+http://iptv.alphacs.tv:8080/live/roja/roja/1567.ts
+#EXTINF:-1,UK: Sky Living Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1565.ts
+#EXTINF:-1,UK: Sky Living  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1566.ts
+#EXTINF:-1,UK: Sky Atlantic Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1563.ts
+#EXTINF:-1,UK: Sky Atlantic  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1564.ts
+#EXTINF:-1,UK: Sky Arts
+http://iptv.alphacs.tv:8080/live/roja/roja/1562.ts
+#EXTINF:-1,UK: Sky 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1561.ts
+#EXTINF:-1,UK: Sky 1  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1560.ts
+#EXTINF:-1,UK: Sky 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1559.ts
+#EXTINF:-1,UK: Setanta Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1558.ts
+#EXTINF:-1,UK: Setanta HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1557.ts
+#EXTINF:-1,UK: Racing
+http://iptv.alphacs.tv:8080/live/roja/roja/1556.ts
+#EXTINF:-1,UK: Pick  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1555.ts
+#EXTINF:-1,UK: Pick
+http://iptv.alphacs.tv:8080/live/roja/roja/1554.ts
+#EXTINF:-1,UK: MTV Classic
+http://iptv.alphacs.tv:8080/live/roja/roja/1551.ts
+#EXTINF:-1,UK: MTV Base
+http://iptv.alphacs.tv:8080/live/roja/roja/1550.ts
+#EXTINF:-1,UK: MTV  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1553.ts
+#EXTINF:-1,UK: MTV
+http://iptv.alphacs.tv:8080/live/roja/roja/1552.ts
+#EXTINF:-1,UK: Movies4Men  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1549.ts
+#EXTINF:-1,UK: More 4 Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1548.ts
+#EXTINF:-1,UK: Universal +1
+http://iptv.alphacs.tv:8080/live/roja/roja/1547.ts
+#EXTINF:-1,UK: Syfy +1
+http://iptv.alphacs.tv:8080/live/roja/roja/1546.ts
+#EXTINF:-1,UK: Investigation Discovery Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1545.ts
+#EXTINF:-1,UK: Fox  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1544.ts
+#EXTINF:-1,UK: E4
+http://iptv.alphacs.tv:8080/live/roja/roja/1543.ts
+#EXTINF:-1,UK: Disney XD  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1541.ts
+#EXTINF:-1,UK: Disney Junior  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1540.ts
+#EXTINF:-1,UK: Disney Channel  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1539.ts
+#EXTINF:-1,UK: Discovery Science Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/1538.ts
+#EXTINF:-1,UK: Discovery Home&Health
+http://iptv.alphacs.tv:8080/live/roja/roja/1537.ts
+#EXTINF:-1,UK: Discovery Channel  1
+http://iptv.alphacs.tv:8080/live/roja/roja/1536.ts
+#EXTINF:-1,UK: Community Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/1534.ts
+#EXTINF:-1,UK: Channel 4 Ireland
+http://iptv.alphacs.tv:8080/live/roja/roja/1532.ts
+#EXTINF:-1,UK: Cartoonito
+http://iptv.alphacs.tv:8080/live/roja/roja/1531.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://iptv.alphacs.tv:8080/live/roja/roja/1530.ts
+#EXTINF:-1,UK: YESTERDAY
+http://iptv.alphacs.tv:8080/live/roja/roja/1013.ts
+#EXTINF:-1,UK: WATCH
+http://iptv.alphacs.tv:8080/live/roja/roja/1012.ts
+#EXTINF:-1,UK: TV3
+http://iptv.alphacs.tv:8080/live/roja/roja/952.ts
+#EXTINF:-1,UK: TLC
+http://iptv.alphacs.tv:8080/live/roja/roja/955.ts
+#EXTINF:-1,UK: Boomerang
+http://iptv.alphacs.tv:8080/live/roja/roja/990.ts
+#EXTINF:-1,UK: SYFY
+http://iptv.alphacs.tv:8080/live/roja/roja/979.ts
+#EXTINF:-1,UK: SONY MOVIES
+http://iptv.alphacs.tv:8080/live/roja/roja/958.ts
+#EXTINF:-1,UK: SKY TWO
+http://iptv.alphacs.tv:8080/live/roja/roja/951.ts
+#EXTINF:-1,UK: SKY SPORTS F1
+http://iptv.alphacs.tv:8080/live/roja/roja/1045.ts
+#EXTINF:-1,UK: SKY SPORTS 5
+http://iptv.alphacs.tv:8080/live/roja/roja/1044.ts
+#EXTINF:-1,UK: SKY SPORTS 4
+http://iptv.alphacs.tv:8080/live/roja/roja/1043.ts
+#EXTINF:-1,UK: SKY SPORTS 3
+http://iptv.alphacs.tv:8080/live/roja/roja/1042.ts
+#EXTINF:-1,UK: SKY SPORTS 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1041.ts
+#EXTINF:-1,UK: SKY SPORTS 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1040.ts
+#EXTINF:-1,UK: SKY SPORT NEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/1039.ts
+#EXTINF:-1,UK: SKY ONE
+http://iptv.alphacs.tv:8080/live/roja/roja/950.ts
+#EXTINF:-1,UK: SKY MOVIES SHOWCASE
+http://iptv.alphacs.tv:8080/live/roja/roja/978.ts
+#EXTINF:-1,UK: SKY MOVIES SELECT
+http://iptv.alphacs.tv:8080/live/roja/roja/977.ts
+#EXTINF:-1,UK: SKY MOVIES SCI-FI & HORROR
+http://iptv.alphacs.tv:8080/live/roja/roja/976.ts
+#EXTINF:-1,UK: SKY MOVIES PREMIER
+http://iptv.alphacs.tv:8080/live/roja/roja/975.ts
+#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
+http://iptv.alphacs.tv:8080/live/roja/roja/974.ts
+#EXTINF:-1,UK: SKY MOVIES FAMILY
+http://iptv.alphacs.tv:8080/live/roja/roja/973.ts
+#EXTINF:-1,UK: SKY MOVIES DRAMA & ROMANCE
+http://iptv.alphacs.tv:8080/live/roja/roja/972.ts
+#EXTINF:-1,UK: SKY MOVIES DISNEY
+http://iptv.alphacs.tv:8080/live/roja/roja/971.ts
+#EXTINF:-1,UK: SKY MOVIES CRIME & THRILLER
+http://iptv.alphacs.tv:8080/live/roja/roja/970.ts
+#EXTINF:-1,UK: SKY MOVIES COMEDY
+http://iptv.alphacs.tv:8080/live/roja/roja/969.ts
+#EXTINF:-1,UK: SKY MOVIES ACTION & ADVENTURE
+http://iptv.alphacs.tv:8080/live/roja/roja/968.ts
+#EXTINF:-1,UK: SKY LIVING
+http://iptv.alphacs.tv:8080/live/roja/roja/1011.ts
+#EXTINF:-1,UK: SKY ATLANTIC
+http://iptv.alphacs.tv:8080/live/roja/roja/967.ts
+#EXTINF:-1,UK: SETANTA SPORT IRELAND
+http://iptv.alphacs.tv:8080/live/roja/roja/1038.ts
+#EXTINF:-1,UK: REALLY
+http://iptv.alphacs.tv:8080/live/roja/roja/1009.ts
+#EXTINF:-1,UK: REAL LIVES
+http://iptv.alphacs.tv:8080/live/roja/roja/995.ts
+#EXTINF:-1,UK: RACING UK
+http://iptv.alphacs.tv:8080/live/roja/roja/1037.ts
+#EXTINF:-1,UK: QUEST
+http://iptv.alphacs.tv:8080/live/roja/roja/1008.ts
+#EXTINF:-1,UK: PREMIER SPORTS
+http://iptv.alphacs.tv:8080/live/roja/roja/1036.ts
+#EXTINF:-1,UK: Viva UK
+http://iptv.alphacs.tv:8080/live/roja/roja/922.ts
+#EXTINF:-1,UK: NICKTOONS
+http://iptv.alphacs.tv:8080/live/roja/roja/989.ts
+#EXTINF:-1,UK: NICK JR
+http://iptv.alphacs.tv:8080/live/roja/roja/987.ts
+#EXTINF:-1,UK: Sky Disney
+http://iptv.alphacs.tv:8080/live/roja/roja/988.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://iptv.alphacs.tv:8080/live/roja/roja/1022.ts
+#EXTINF:-1,UK: NAT GEO WILD
+http://iptv.alphacs.tv:8080/live/roja/roja/1021.ts
+#EXTINF:-1,UK: MUTV
+http://iptv.alphacs.tv:8080/live/roja/roja/1023.ts
+#EXTINF:-1,UK: MTV ROCKS
+http://iptv.alphacs.tv:8080/live/roja/roja/1017.ts
+#EXTINF:-1,UK: MTV MUSIC
+http://iptv.alphacs.tv:8080/live/roja/roja/1016.ts
+#EXTINF:-1,UK: MTV HITS
+http://iptv.alphacs.tv:8080/live/roja/roja/1015.ts
+#EXTINF:-1,UK: MTV DANCE
+http://iptv.alphacs.tv:8080/live/roja/roja/1014.ts
+#EXTINF:-1,UK: MOVIES4MEN
+http://iptv.alphacs.tv:8080/live/roja/roja/966.ts
+#EXTINF:-1,UK: MOTORS TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1035.ts
+#EXTINF:-1,UK: LIVING IT
+http://iptv.alphacs.tv:8080/live/roja/roja/923.ts
+#EXTINF:-1,UK: LIVERPOOL FC TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1034.ts
+#EXTINF:-1,UK: LIFETIME
+http://iptv.alphacs.tv:8080/live/roja/roja/1007.ts
+#EXTINF:-1,UK: ITV4
+http://iptv.alphacs.tv:8080/live/roja/roja/940.ts
+#EXTINF:-1,UK: ITV3
+http://iptv.alphacs.tv:8080/live/roja/roja/939.ts
+#EXTINF:-1,UK: ITV2
+http://iptv.alphacs.tv:8080/live/roja/roja/938.ts
+#EXTINF:-1,UK: ITV1
+http://iptv.alphacs.tv:8080/live/roja/roja/937.ts
+#EXTINF:-1,UK: ITV BE
+http://iptv.alphacs.tv:8080/live/roja/roja/941.ts
+#EXTINF:-1,UK: HOME
+http://iptv.alphacs.tv:8080/live/roja/roja/1006.ts
+#EXTINF:-1,UK: HISTORY
+http://iptv.alphacs.tv:8080/live/roja/roja/1005.ts
+#EXTINF:-1,UK: H2
+http://iptv.alphacs.tv:8080/live/roja/roja/1004.ts
+#EXTINF:-1,UK: GOLD
+http://iptv.alphacs.tv:8080/live/roja/roja/947.ts
+#EXTINF:-1,UK: FOX
+http://iptv.alphacs.tv:8080/live/roja/roja/965.ts
+#EXTINF:-1,UK: EDEN
+http://iptv.alphacs.tv:8080/live/roja/roja/948.ts
+#EXTINF:-1,UK: DISNEY XD
+http://iptv.alphacs.tv:8080/live/roja/roja/986.ts
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/roja/roja/985.ts
+#EXTINF:-1,UK: DISNEY CHANNEL
+http://iptv.alphacs.tv:8080/live/roja/roja/984.ts
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://iptv.alphacs.tv:8080/live/roja/roja/1003.ts
+#EXTINF:-1,UK: DISCOVERY SHED
+http://iptv.alphacs.tv:8080/live/roja/roja/1002.ts
+#EXTINF:-1,UK: DISCOVERY SCIENCE
+http://iptv.alphacs.tv:8080/live/roja/roja/1001.ts
+#EXTINF:-1,UK: DISCOVERY ID
+http://iptv.alphacs.tv:8080/live/roja/roja/924.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://iptv.alphacs.tv:8080/live/roja/roja/999.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://iptv.alphacs.tv:8080/live/roja/roja/998.ts
+#EXTINF:-1,UK: DAVE
+http://iptv.alphacs.tv:8080/live/roja/roja/997.ts
+#EXTINF:-1,UK: CRIME & INVESTIGATION
+http://iptv.alphacs.tv:8080/live/roja/roja/996.ts
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA
+http://iptv.alphacs.tv:8080/live/roja/roja/992.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://iptv.alphacs.tv:8080/live/roja/roja/991.ts
+#EXTINF:-1,UK: CLUBLAND
+http://iptv.alphacs.tv:8080/live/roja/roja/1019.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1032.ts
+#EXTINF:-1,UK: CBS REALITY
+http://iptv.alphacs.tv:8080/live/roja/roja/961.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://iptv.alphacs.tv:8080/live/roja/roja/960.ts
+#EXTINF:-1,UK: CBS ACTION
+http://iptv.alphacs.tv:8080/live/roja/roja/959.ts
+#EXTINF:-1,UK: CBEEBIES
+http://iptv.alphacs.tv:8080/live/roja/roja/983.ts
+#EXTINF:-1,UK: CARTOON NETWORK
+http://iptv.alphacs.tv:8080/live/roja/roja/982.ts
+#EXTINF:-1,UK: BT SPORT EXTRA
+http://iptv.alphacs.tv:8080/live/roja/roja/1031.ts
+#EXTINF:-1,UK: BT SPORT EUROPE
+http://iptv.alphacs.tv:8080/live/roja/roja/1030.ts
+#EXTINF:-1,UK: BT SPORT 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1029.ts
+#EXTINF:-1,UK: BT SPORT 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1028.ts
+#EXTINF:-1,UK: BRITISH EUROSPORT 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1027.ts
+#EXTINF:-1,UK: BRITISH EUROSPORT 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1026.ts
+#EXTINF:-1,UK: BOXNATION
+http://iptv.alphacs.tv:8080/live/roja/roja/1025.ts
+#EXTINF:-1,UK: BBC 2
+http://iptv.alphacs.tv:8080/live/roja/roja/933.ts
+#EXTINF:-1,UK: BBC 3
+http://iptv.alphacs.tv:8080/live/roja/roja/934.ts
+#EXTINF:-1,UK: BBC 1
+http://iptv.alphacs.tv:8080/live/roja/roja/932.ts
+#EXTINF:-1,UK: BBC NEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/936.ts
+#EXTINF:-1,UK: BBC 4
+http://iptv.alphacs.tv:8080/live/roja/roja/935.ts
+#EXTINF:-1,UK: B4U PLUS
+http://iptv.alphacs.tv:8080/live/roja/roja/929.ts
+#EXTINF:-1,UK: B4U MUSIC
+http://iptv.alphacs.tv:8080/live/roja/roja/930.ts
+#EXTINF:-1,UK: AT THE RACES
+http://iptv.alphacs.tv:8080/live/roja/roja/1024.ts
+#EXTINF:-1,UK: ANIMAL PLANET
+http://iptv.alphacs.tv:8080/live/roja/roja/994.ts
+#EXTINF:-1,==========Sports==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7242.ts
+#EXTINF:-1,SPORT: Super Sport 4
+http://iptv.alphacs.tv:8080/live/roja/roja/1112.ts
+#EXTINF:-1,SPORT: Super Sport 3
+http://iptv.alphacs.tv:8080/live/roja/roja/1113.ts
+#EXTINF:-1,SPORT: Super Sport 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1114.ts
+#EXTINF:-1,SPORT: Super Sport 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1115.ts
+#EXTINF:-1,SPORT: Sport TV 5
+http://iptv.alphacs.tv:8080/live/roja/roja/1116.ts
+#EXTINF:-1,SPORT: Sport TV 4
+http://iptv.alphacs.tv:8080/live/roja/roja/1117.ts
+#EXTINF:-1,SPORT: Sport TV 3
+http://iptv.alphacs.tv:8080/live/roja/roja/1118.ts
+#EXTINF:-1,SPORT: Sport TV 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1119.ts
+#EXTINF:-1,SPORT: Sport TV 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1120.ts
+#EXTINF:-1,SPORT: Sport Klub 3
+http://iptv.alphacs.tv:8080/live/roja/roja/1121.ts
+#EXTINF:-1,SPORT: Sport Klub 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1122.ts
+#EXTINF:-1,SPORT: Sport Klub 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1123.ts
+#EXTINF:-1,SPORT: Sky Sports News
+http://iptv.alphacs.tv:8080/live/roja/roja/1124.ts
+#EXTINF:-1,SPORT: Sky Sports F1
+http://iptv.alphacs.tv:8080/live/roja/roja/1125.ts
+#EXTINF:-1,SPORT: Sky Sports 5
+http://iptv.alphacs.tv:8080/live/roja/roja/1126.ts
+#EXTINF:-1,SPORT: Sky Sports 4
+http://iptv.alphacs.tv:8080/live/roja/roja/1127.ts
+#EXTINF:-1,SPORT: Sky Sports 3
+http://iptv.alphacs.tv:8080/live/roja/roja/1128.ts
+#EXTINF:-1,SPORT: Sky Sports 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1129.ts
+#EXTINF:-1,SPORT: Sky Sports 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1130.ts
+#EXTINF:-1,SPORT: Sky Bundesliga HD 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1131.ts
+#EXTINF:-1,SPORT: Sky 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1133.ts
+#EXTINF:-1,SPORT: Sky 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1134.ts
+#EXTINF:-1,SPORT: Setanta Sport
+http://iptv.alphacs.tv:8080/live/roja/roja/1135.ts
+#EXTINF:-1,SPORT: Prva Plus
+http://iptv.alphacs.tv:8080/live/roja/roja/1137.ts
+#EXTINF:-1,SPORT: Premiere Sport UK
+http://iptv.alphacs.tv:8080/live/roja/roja/1138.ts
+#EXTINF:-1,SPORT: Liverpool FC UK
+http://iptv.alphacs.tv:8080/live/roja/roja/1139.ts
+#EXTINF:-1,SPORT: CTH Stadium 6 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1140.ts
+#EXTINF:-1,SPORT: CTH Stadium 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1145.ts
+#EXTINF:-1,SPORT: CTH Stadium 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1141.ts
+#EXTINF:-1,SPORT: CTH Stadium 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1142.ts
+#EXTINF:-1,SPORT: CTH Stadium 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1143.ts
+#EXTINF:-1,SPORT: CTH Stadium 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1144.ts
+#EXTINF:-1,SPORT: BEINSPORTS 12
+http://iptv.alphacs.tv:8080/live/roja/roja/4385.ts
+#EXTINF:-1,SPORT: BEINSPORTS 11
+http://iptv.alphacs.tv:8080/live/roja/roja/4339.ts
+#EXTINF:-1,SPORT: BEINSPORTS 10
+http://iptv.alphacs.tv:8080/live/roja/roja/1072.ts
+#EXTINF:-1,SPORT: BEINSPORTS 9
+http://iptv.alphacs.tv:8080/live/roja/roja/1071.ts
+#EXTINF:-1,SPORT: BEINSPORTS 8
+http://iptv.alphacs.tv:8080/live/roja/roja/1070.ts
+#EXTINF:-1,SPORT: BEINSPORTS 7
+http://iptv.alphacs.tv:8080/live/roja/roja/1069.ts
+#EXTINF:-1,SPORT: BEINSPORTS 6
+http://iptv.alphacs.tv:8080/live/roja/roja/1068.ts
+#EXTINF:-1,SPORT: BEINSPORTS 5
+http://iptv.alphacs.tv:8080/live/roja/roja/1067.ts
+#EXTINF:-1,SPORT: BEINSPORTS 4
+http://iptv.alphacs.tv:8080/live/roja/roja/1066.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3 FR
+http://iptv.alphacs.tv:8080/live/roja/roja/1109.ts
+#EXTINF:-1,SPORT: BEINSPORTS 3
+http://iptv.alphacs.tv:8080/live/roja/roja/1065.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2 FR
+http://iptv.alphacs.tv:8080/live/roja/roja/1110.ts
+#EXTINF:-1,SPORT: BEINSPORTS 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1064.ts
+#EXTINF:-1,SPORT: BEINSPORTS 1 FR
+http://iptv.alphacs.tv:8080/live/roja/roja/1111.ts
+#EXTINF:-1,SPORT: BEINSPORTS 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1063.ts
+#EXTINF:-1,SPORT: Arena Sport 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1051.ts
+#EXTINF:-1,SPORT: Arena Sport 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1050.ts
+#EXTINF:-1,SPORT: Arena Sport 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1049.ts
+#EXTINF:-1,SPORT: Arena Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1048.ts
+#EXTINF:-1,SPORT: Arena Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1047.ts
+#EXTINF:-1,==========France==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7238.ts
+#EXTINF:-1,FR: TV5 MONDE HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4039.ts
+#EXTINF:-1,FR: SERIE CLUB
+http://iptv.alphacs.tv:8080/live/roja/roja/4044.ts
+#EXTINF:-1,FR: PLANETE +
+http://iptv.alphacs.tv:8080/live/roja/roja/4048.ts
+#EXTINF:-1,FR: PLANETE + CI
+http://iptv.alphacs.tv:8080/live/roja/roja/4046.ts
+#EXTINF:-1,FR: DISCOVERY HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4051.ts
+#EXTINF:-1,FR: NATIONAL GEO CHANNEL
+http://iptv.alphacs.tv:8080/live/roja/roja/4050.ts
+#EXTINF:-1,FR: Ma chaine Sports
+http://iptv.alphacs.tv:8080/live/roja/roja/4077.ts
+#EXTINF:-1,FR: M6 MUSIC
+http://iptv.alphacs.tv:8080/live/roja/roja/4053.ts
+#EXTINF:-1,FR: INFOSPORT
+http://iptv.alphacs.tv:8080/live/roja/roja/4055.ts
+#EXTINF:-1,FR: FRANCE 24
+http://iptv.alphacs.tv:8080/live/roja/roja/4058.ts
+#EXTINF:-1,FR: CINE FX
+http://iptv.alphacs.tv:8080/live/roja/roja/4063.ts
+#EXTINF:-1,FR: CINE CLASSIC
+http://iptv.alphacs.tv:8080/live/roja/roja/4064.ts
+#EXTINF:-1,FR: CANAL J
+http://iptv.alphacs.tv:8080/live/roja/roja/4067.ts
+#EXTINF:-1,FR: CANAL   FRISSON
+http://iptv.alphacs.tv:8080/live/roja/roja/4068.ts
+#EXTINF:-1,FR: CANAL   FAMALY
+http://iptv.alphacs.tv:8080/live/roja/roja/4069.ts
+#EXTINF:-1,FR: CANAL   EMOTION
+http://iptv.alphacs.tv:8080/live/roja/roja/4070.ts
+#EXTINF:-1,FR: CANAL   DECALE
+http://iptv.alphacs.tv:8080/live/roja/roja/4071.ts
+#EXTINF:-1,FR: CANAL   CLASSIC
+http://iptv.alphacs.tv:8080/live/roja/roja/4072.ts
+#EXTINF:-1,FR: CANAL   CINEMA
+http://iptv.alphacs.tv:8080/live/roja/roja/4073.ts
+#EXTINF:-1,FR: Comedie
+http://iptv.alphacs.tv:8080/live/roja/roja/1665.ts
+#EXTINF:-1,FR: ACTION
+http://iptv.alphacs.tv:8080/live/roja/roja/4090.ts
+#EXTINF:-1,FR: Canal   Cinema France
+http://iptv.alphacs.tv:8080/live/roja/roja/1669.ts
+#EXTINF:-1,FR: BOING
+http://iptv.alphacs.tv:8080/live/roja/roja/4075.ts
+#EXTINF:-1,FR: BFM TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4076.ts
+#EXTINF:-1,FR: ARTE HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1680.ts
+#EXTINF:-1,FR: ARTE
+http://iptv.alphacs.tv:8080/live/roja/roja/4088.ts
+#EXTINF:-1,FR: ANIMAUX
+http://iptv.alphacs.tv:8080/live/roja/roja/4089.ts
+#EXTINF:-1,FR: A LA CARTE 5
+http://iptv.alphacs.tv:8080/live/roja/roja/4091.ts
+#EXTINF:-1,FR: A LA CARTE 4
+http://iptv.alphacs.tv:8080/live/roja/roja/4092.ts
+#EXTINF:-1,FR: A LA CARTE 3
+http://iptv.alphacs.tv:8080/live/roja/roja/4093.ts
+#EXTINF:-1,FR: A LA CARTE 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4094.ts
+#EXTINF:-1,FR: A LA CARTE 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4095.ts
+#EXTINF:-1,FR: W9
+http://iptv.alphacs.tv:8080/live/roja/roja/1647.ts
+#EXTINF:-1,FR: TMC
+http://iptv.alphacs.tv:8080/live/roja/roja/1648.ts
+#EXTINF:-1,FR: TF 1
+http://iptv.alphacs.tv:8080/live/roja/roja/1649.ts
+#EXTINF:-1,FR: Public Senat
+http://iptv.alphacs.tv:8080/live/roja/roja/1650.ts
+#EXTINF:-1,FR: Piwi
+http://iptv.alphacs.tv:8080/live/roja/roja/1651.ts
+#EXTINF:-1,FR: NRJ 12
+http://iptv.alphacs.tv:8080/live/roja/roja/1652.ts
+#EXTINF:-1,FR: M6
+http://iptv.alphacs.tv:8080/live/roja/roja/1653.ts
+#EXTINF:-1,FR: Nickelodeon
+http://iptv.alphacs.tv:8080/live/roja/roja/1655.ts
+#EXTINF:-1,FR: LCP
+http://iptv.alphacs.tv:8080/live/roja/roja/1654.ts
+#EXTINF:-1,FR: Teva
+http://iptv.alphacs.tv:8080/live/roja/roja/1656.ts
+#EXTINF:-1,FR: I>Tele
+http://iptv.alphacs.tv:8080/live/roja/roja/1657.ts
+#EXTINF:-1,FR: Gulli
+http://iptv.alphacs.tv:8080/live/roja/roja/1658.ts
+#EXTINF:-1,FR: France O
+http://iptv.alphacs.tv:8080/live/roja/roja/1659.ts
+#EXTINF:-1,FR: France 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1663.ts
+#EXTINF:-1,FR: France 3 Sat
+http://iptv.alphacs.tv:8080/live/roja/roja/1662.ts
+#EXTINF:-1,FR: France 4
+http://iptv.alphacs.tv:8080/live/roja/roja/1661.ts
+#EXTINF:-1,FR: France 5
+http://iptv.alphacs.tv:8080/live/roja/roja/1660.ts
+#EXTINF:-1,FR: D8
+http://iptv.alphacs.tv:8080/live/roja/roja/1664.ts
+#EXTINF:-1,FR: Canal
+http://iptv.alphacs.tv:8080/live/roja/roja/1668.ts
+#EXTINF:-1,FR: Chasse and Peche
+http://iptv.alphacs.tv:8080/live/roja/roja/1666.ts
+#EXTINF:-1,FR: Canal   Sport
+http://iptv.alphacs.tv:8080/live/roja/roja/1667.ts
+#EXTINF:-1,FR: EURONEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/4060.ts
+#EXTINF:-1,FR: EUROSPORT 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4059.ts
+#EXTINF:-1,FR: EUROSPORT 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4087.ts
+#EXTINF:-1,FR: BeIn Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4885.ts
+#EXTINF:-1,FR: BeIn Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4886.ts
+#EXTINF:-1,FR: BeIn Sport 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4887.ts
+#EXTINF:-1,FR: BeIn Sports Max 4
+http://iptv.alphacs.tv:8080/live/roja/roja/1675.ts
+#EXTINF:-1,FR: BeIn Sports Max 5
+http://iptv.alphacs.tv:8080/live/roja/roja/1674.ts
+#EXTINF:-1,FR: BeIn Sports Max 6
+http://iptv.alphacs.tv:8080/live/roja/roja/1673.ts
+#EXTINF:-1,FR: BeIn Sports Max 7
+http://iptv.alphacs.tv:8080/live/roja/roja/1672.ts
+#EXTINF:-1,FR: BeIn Sports Max 8
+http://iptv.alphacs.tv:8080/live/roja/roja/1671.ts
+#EXTINF:-1,==========Greece==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7239.ts
+#EXTINF:-1,GR: MAD TV
+http://iptv.alphacs.tv:8080/live/roja/roja/5574.ts
+#EXTINF:-1,GR: MAD CY
+http://iptv.alphacs.tv:8080/live/roja/roja/7246.ts
+#EXTINF:-1,GR: Vouli
+http://iptv.alphacs.tv:8080/live/roja/roja/1729.ts
+#EXTINF:-1,GR: Star
+http://iptv.alphacs.tv:8080/live/roja/roja/1730.ts
+#EXTINF:-1,GR: SKAI
+http://iptv.alphacs.tv:8080/live/roja/roja/1731.ts
+#EXTINF:-1,GR: Mega
+http://iptv.alphacs.tv:8080/live/roja/roja/1732.ts
+#EXTINF:-1,GR: Makedonia
+http://iptv.alphacs.tv:8080/live/roja/roja/1733.ts
+#EXTINF:-1,GR: ERT HD
+http://iptv.alphacs.tv:8080/live/roja/roja/1734.ts
+#EXTINF:-1,GR: ERT 3
+http://iptv.alphacs.tv:8080/live/roja/roja/1735.ts
+#EXTINF:-1,GR: ERT 2
+http://iptv.alphacs.tv:8080/live/roja/roja/1736.ts
+#EXTINF:-1,GR: Epsilon TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1738.ts
+#EXTINF:-1,GR: Art TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1739.ts
+#EXTINF:-1,GR: Ant1
+http://iptv.alphacs.tv:8080/live/roja/roja/1740.ts
+#EXTINF:-1,GR: Alpha TV
+http://iptv.alphacs.tv:8080/live/roja/roja/1741.ts
+#EXTINF:-1,==========Albania==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7235.ts
+#EXTINF:-1,AL: RTK 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4436.ts
+#EXTINF:-1,AL: RTK 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4435.ts
+#EXTINF:-1,AL: RTV 21 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4431.ts
+#EXTINF:-1,AL: Klan Tv
+http://iptv.alphacs.tv:8080/live/roja/roja/4363.ts
+#EXTINF:-1,AL: Klan HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4365.ts
+#EXTINF:-1,AL: Klan Kosova
+http://iptv.alphacs.tv:8080/live/roja/roja/4364.ts
+#EXTINF:-1,AL: Klan Kosova HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4456.ts
+#EXTINF:-1,AL: TV Koha
+http://iptv.alphacs.tv:8080/live/roja/roja/4342.ts
+#EXTINF:-1,AL: Koha TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4455.ts
+#EXTINF:-1,AL: Top Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/4353.ts
+#EXTINF:-1,AL: Top Channel HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4352.ts
+#EXTINF:-1,AL: TV Tetova HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4389.ts
+#EXTINF:-1,AL: TV Sharri HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4390.ts
+#EXTINF:-1,AL: TV Opoja
+http://iptv.alphacs.tv:8080/live/roja/roja/4393.ts
+#EXTINF:-1,AL: TV Lezha
+http://iptv.alphacs.tv:8080/live/roja/roja/4395.ts
+#EXTINF:-1,AL: TV Kosova
+http://iptv.alphacs.tv:8080/live/roja/roja/4396.ts
+#EXTINF:-1,AL: TV Globi Gostivar
+http://iptv.alphacs.tv:8080/live/roja/roja/4398.ts
+#EXTINF:-1,AL: TV Era
+http://iptv.alphacs.tv:8080/live/roja/roja/4399.ts
+#EXTINF:-1,AL: TV Dukagjini
+http://iptv.alphacs.tv:8080/live/roja/roja/4400.ts
+#EXTINF:-1,AL: RTV 21 Junior
+http://iptv.alphacs.tv:8080/live/roja/roja/4430.ts
+#EXTINF:-1,AL: RTV 21 Popullore HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4427.ts
+#EXTINF:-1,AL: RTV 21 Plus HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4428.ts
+#EXTINF:-1,AL: RTV 21 MK HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4429.ts
+#EXTINF:-1,AL: RTV Sharri
+http://iptv.alphacs.tv:8080/live/roja/roja/4426.ts
+#EXTINF:-1,AL: Zico TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4387.ts
+#EXTINF:-1,AL: Vizion
+http://iptv.alphacs.tv:8080/live/roja/roja/4388.ts
+#EXTINF:-1,AL: Tribuna TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4411.ts
+#EXTINF:-1,AL: Top News
+http://iptv.alphacs.tv:8080/live/roja/roja/4412.ts
+#EXTINF:-1,AL: Tirana TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4413.ts
+#EXTINF:-1,AL: Tip TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4414.ts
+#EXTINF:-1,AL: First Channel
+http://iptv.alphacs.tv:8080/live/roja/roja/4461.ts
+#EXTINF:-1,AL: Film Thriller
+http://iptv.alphacs.tv:8080/live/roja/roja/4462.ts
+#EXTINF:-1,AL: Film Stinet
+http://iptv.alphacs.tv:8080/live/roja/roja/4463.ts
+#EXTINF:-1,AL: Film Junior
+http://iptv.alphacs.tv:8080/live/roja/roja/4464.ts
+#EXTINF:-1,AL: Film Hits 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4465.ts
+#EXTINF:-1,AL: Film Aksion
+http://iptv.alphacs.tv:8080/live/roja/roja/4466.ts
+#EXTINF:-1,AL: Film Thriler
+http://iptv.alphacs.tv:8080/live/roja/roja/4368.ts
+#EXTINF:-1,AL: Film Nje HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4369.ts
+#EXTINF:-1,AL: Film Komedi
+http://iptv.alphacs.tv:8080/live/roja/roja/4370.ts
+#EXTINF:-1,AL: Film Hits  1
+http://iptv.alphacs.tv:8080/live/roja/roja/4371.ts
+#EXTINF:-1,AL: Film Hits
+http://iptv.alphacs.tv:8080/live/roja/roja/4372.ts
+#EXTINF:-1,AL: Film Dy HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4373.ts
+#EXTINF:-1,AL: Film Drame
+http://iptv.alphacs.tv:8080/live/roja/roja/4374.ts
+#EXTINF:-1,AL: Film Autor
+http://iptv.alphacs.tv:8080/live/roja/roja/4375.ts
+#EXTINF:-1,AL: Film Akcion
+http://iptv.alphacs.tv:8080/live/roja/roja/4376.ts
+#EXTINF:-1,AL: Explorer Shkence
+http://iptv.alphacs.tv:8080/live/roja/roja/4377.ts
+#EXTINF:-1,AL: Explorer Natyre
+http://iptv.alphacs.tv:8080/live/roja/roja/4378.ts
+#EXTINF:-1,AL: Explorer History
+http://iptv.alphacs.tv:8080/live/roja/roja/4379.ts
+#EXTINF:-1,AL: Explorer Shkenca
+http://iptv.alphacs.tv:8080/live/roja/roja/4467.ts
+#EXTINF:-1,AL: Explorer Natyra
+http://iptv.alphacs.tv:8080/live/roja/roja/4468.ts
+#EXTINF:-1,AL: Explorer Histori
+http://iptv.alphacs.tv:8080/live/roja/roja/4469.ts
+#EXTINF:-1,AL: Rrokum HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4437.ts
+#EXTINF:-1,AL: Peace TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4439.ts
+#EXTINF:-1,AL: Ora News
+http://iptv.alphacs.tv:8080/live/roja/roja/4440.ts
+#EXTINF:-1,AL: News 24
+http://iptv.alphacs.tv:8080/live/roja/roja/4441.ts
+#EXTINF:-1,AL: My Music
+http://iptv.alphacs.tv:8080/live/roja/roja/4442.ts
+#EXTINF:-1,AL: MRTV 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4444.ts
+#EXTINF:-1,AL: Mekka Live
+http://iptv.alphacs.tv:8080/live/roja/roja/4445.ts
+#EXTINF:-1,AL: Medina Live
+http://iptv.alphacs.tv:8080/live/roja/roja/4446.ts
+#EXTINF:-1,AL: Living HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4452.ts
+#EXTINF:-1,AL: KTV  HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4453.ts
+#EXTINF:-1,AL: KTV
+http://iptv.alphacs.tv:8080/live/roja/roja/4454.ts
+#EXTINF:-1,AL: Kanali 7
+http://iptv.alphacs.tv:8080/live/roja/roja/4457.ts
+#EXTINF:-1,AL: Jug TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4458.ts
+#EXTINF:-1,AL: Folklorit
+http://iptv.alphacs.tv:8080/live/roja/roja/4459.ts
+#EXTINF:-1,AL: Elrodi TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4470.ts
+#EXTINF:-1,AL: Lugina Sci-Fi HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4448.ts
+#EXTINF:-1,AL: Lugina Premiere 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4449.ts
+#EXTINF:-1,AL: Lugina Premiere 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4450.ts
+#EXTINF:-1,AL: Lugina Premiere 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4451.ts
+#EXTINF:-1,AL: Dasma TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4472.ts
+#EXTINF:-1,AL: Cufo
+http://iptv.alphacs.tv:8080/live/roja/roja/4473.ts
+#EXTINF:-1,AL: Vizion Plus EST USA
+http://iptv.alphacs.tv:8080/live/roja/roja/4474.ts
+#EXTINF:-1,AL: BBF Music
+http://iptv.alphacs.tv:8080/live/roja/roja/4475.ts
+#EXTINF:-1,AL: BangBang
+http://iptv.alphacs.tv:8080/live/roja/roja/4476.ts
+#EXTINF:-1,AL: Ballkan TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4477.ts
+#EXTINF:-1,AL: ALB Music
+http://iptv.alphacs.tv:8080/live/roja/roja/4480.ts
+#EXTINF:-1,AL: T HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4354.ts
+#EXTINF:-1,AL: Stinet
+http://iptv.alphacs.tv:8080/live/roja/roja/4359.ts
+#EXTINF:-1,AL: Smile
+http://iptv.alphacs.tv:8080/live/roja/roja/4360.ts
+#EXTINF:-1,AL: Rtk Kosova
+http://iptv.alphacs.tv:8080/live/roja/roja/4361.ts
+#EXTINF:-1,AL: Ktv Kohavision
+http://iptv.alphacs.tv:8080/live/roja/roja/4362.ts
+#EXTINF:-1,AL: Junior Tv
+http://iptv.alphacs.tv:8080/live/roja/roja/4366.ts
+#EXTINF:-1,AL: Jolly HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4367.ts
+#EXTINF:-1,AL: Era Tv
+http://iptv.alphacs.tv:8080/live/roja/roja/4380.ts
+#EXTINF:-1,AL: Digi Gold
+http://iptv.alphacs.tv:8080/live/roja/roja/4381.ts
+#EXTINF:-1,AL: Cufo Tv
+http://iptv.alphacs.tv:8080/live/roja/roja/4382.ts
+#EXTINF:-1,AL: 21 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4383.ts
+#EXTINF:-1,AL: ABC News
+http://iptv.alphacs.tv:8080/live/roja/roja/4483.ts
+#EXTINF:-1,AL: Vizion Plus
+http://iptv.alphacs.tv:8080/live/roja/roja/4340.ts
+#EXTINF:-1,AL: Tvsh
+http://iptv.alphacs.tv:8080/live/roja/roja/4341.ts
+#EXTINF:-1,AL: SuperSonic TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4417.ts
+#EXTINF:-1,AL: Super Sport Kosova 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4419.ts
+#EXTINF:-1,AL: Super Sport Kosova 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4418.ts
+#EXTINF:-1,AL: Super Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4424.ts
+#EXTINF:-1,AL: Super sport 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4358.ts
+#EXTINF:-1,AL: Super Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4423.ts
+#EXTINF:-1,AL: Super sport 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4357.ts
+#EXTINF:-1,AL: Super Sport 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4422.ts
+#EXTINF:-1,AL: Super sport 3
+http://iptv.alphacs.tv:8080/live/roja/roja/4356.ts
+#EXTINF:-1,AL: Super Sport 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4421.ts
+#EXTINF:-1,AL: Super sport 4
+http://iptv.alphacs.tv:8080/live/roja/roja/4355.ts
+#EXTINF:-1,AL: Super Sport 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4420.ts
+#EXTINF:-1,AL: Tring Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4404.ts
+#EXTINF:-1,AL: Tring Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4405.ts
+#EXTINF:-1,AL: Tring Sport 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4406.ts
+#EXTINF:-1,AL: Tring Sport 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4407.ts
+#EXTINF:-1,AL: Tring Sport News HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4403.ts
+#EXTINF:-1,AL: Tring 3
+http://iptv.alphacs.tv:8080/live/roja/roja/4410.ts
+#EXTINF:-1,AL: Tring Festa
+http://iptv.alphacs.tv:8080/live/roja/roja/4408.ts
+#EXTINF:-1,AL: Tring Comedy
+http://iptv.alphacs.tv:8080/live/roja/roja/4409.ts
+#EXTINF:-1,AL: Tring Live
+http://iptv.alphacs.tv:8080/live/roja/roja/4415.ts
+#EXTINF:-1,AL: Tring World
+http://iptv.alphacs.tv:8080/live/roja/roja/4343.ts
+#EXTINF:-1,AL: Tring Tring
+http://iptv.alphacs.tv:8080/live/roja/roja/4344.ts
+#EXTINF:-1,AL: Tring Super
+http://iptv.alphacs.tv:8080/live/roja/roja/4345.ts
+#EXTINF:-1,AL: Tring Shqip
+http://iptv.alphacs.tv:8080/live/roja/roja/4346.ts
+#EXTINF:-1,AL: Tring Planet
+http://iptv.alphacs.tv:8080/live/roja/roja/4347.ts
+#EXTINF:-1,AL: Tring Max
+http://iptv.alphacs.tv:8080/live/roja/roja/4348.ts
+#EXTINF:-1,AL: Tring Life
+http://iptv.alphacs.tv:8080/live/roja/roja/4349.ts
+#EXTINF:-1,AL: Tring History
+http://iptv.alphacs.tv:8080/live/roja/roja/4350.ts
+#EXTINF:-1,AL: Tring Fantasy
+http://iptv.alphacs.tv:8080/live/roja/roja/4351.ts
+#EXTINF:-1,==========Turkey==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7244.ts
+#EXTINF:-1,TR:Loca_1
+http://iptv.alphacs.tv:8080/live/roja/roja/4487.ts
+#EXTINF:-1,TR: Sinema 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4514.ts
+#EXTINF:-1,TR: Sinema_Platin
+http://iptv.alphacs.tv:8080/live/roja/roja/4488.ts
+#EXTINF:-1,TR: Sinema_Gold
+http://iptv.alphacs.tv:8080/live/roja/roja/4489.ts
+#EXTINF:-1,TR: Sinema tv Aksiyon
+http://iptv.alphacs.tv:8080/live/roja/roja/4490.ts
+#EXTINF:-1,TR: Sinema TV Aile
+http://iptv.alphacs.tv:8080/live/roja/roja/4491.ts
+#EXTINF:-1,TR: Sinema Korku
+http://iptv.alphacs.tv:8080/live/roja/roja/4493.ts
+#EXTINF:-1,TR: SHOW TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4515.ts
+#EXTINF:-1,TR: SALON 3
+http://iptv.alphacs.tv:8080/live/roja/roja/4517.ts
+#EXTINF:-1,TR: SALON 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4518.ts
+#EXTINF:-1,TR: SALON 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4519.ts
+#EXTINF:-1,TR: Planet Mutfak
+http://iptv.alphacs.tv:8080/live/roja/roja/4520.ts
+#EXTINF:-1,TR: Planet Cocuk
+http://iptv.alphacs.tv:8080/live/roja/roja/4521.ts
+#EXTINF:-1,TR: Moviemax_Premiere
+http://iptv.alphacs.tv:8080/live/roja/roja/4494.ts
+#EXTINF:-1,TR: Moviemax_Family
+http://iptv.alphacs.tv:8080/live/roja/roja/4495.ts
+#EXTINF:-1,TR: Moviemax Stars
+http://iptv.alphacs.tv:8080/live/roja/roja/4496.ts
+#EXTINF:-1,TR: Sinema 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4522.ts
+#EXTINF:-1,TR: Moviemax Festival
+http://iptv.alphacs.tv:8080/live/roja/roja/4497.ts
+#EXTINF:-1,TR: Haber Turk
+http://iptv.alphacs.tv:8080/live/roja/roja/4523.ts
+#EXTINF:-1,TR: LIGTV 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4528.ts
+#EXTINF:-1,TR: LIGTV 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4529.ts
+#EXTINF:-1,TR: LIGTV 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4530.ts
+#EXTINF:-1,TR: LIGTV 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4531.ts
+#EXTINF:-1,TR: CNN Turk
+http://iptv.alphacs.tv:8080/live/roja/roja/4534.ts
+#EXTINF:-1,TR: KANALTURK HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4535.ts
+#EXTINF:-1,TR: KANAL D HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4536.ts
+#EXTINF:-1,TR: DREAM TURK
+http://iptv.alphacs.tv:8080/live/roja/roja/4541.ts
+#EXTINF:-1,TR: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/roja/roja/4498.ts
+#EXTINF:-1,TR: Disney Channel HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4542.ts
+#EXTINF:-1,TR: Discovery Sc
+http://iptv.alphacs.tv:8080/live/roja/roja/4543.ts
+#EXTINF:-1,TR: Sinema 8 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4499.ts
+#EXTINF:-1,TR: Sinema 7 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4500.ts
+#EXTINF:-1,TR: Sinema 6 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4501.ts
+#EXTINF:-1,TR: Sinema 5 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4502.ts
+#EXTINF:-1,TR: Sinema 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4503.ts
+#EXTINF:-1,TR: Sinema 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4504.ts
+#EXTINF:-1,TR: Cartoon Network
+http://iptv.alphacs.tv:8080/live/roja/roja/4507.ts
+#EXTINF:-1,TR: CARTONNETWORK
+http://iptv.alphacs.tv:8080/live/roja/roja/4545.ts
+#EXTINF:-1,==========USA==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7236.ts
+#EXTINF:-1,USA: CNN
+http://iptv.alphacs.tv:8080/live/roja/roja/7332.ts
+#EXTINF:-1,USA: CNBC
+http://iptv.alphacs.tv:8080/live/roja/roja/7335.ts
+#EXTINF:-1,USA: NBA TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7260.ts
+#EXTINF:-1,USA: ESPN HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7333.ts
+#EXTINF:-1,USA: DTX
+http://iptv.alphacs.tv:8080/live/roja/roja/4568.ts
+#EXTINF:-1,USA: DTX HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4597.ts
+#EXTINF:-1,USA: TSN 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4587.ts
+#EXTINF:-1,USA: TSN 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4584.ts
+#EXTINF:-1,USA: TSN 3
+http://iptv.alphacs.tv:8080/live/roja/roja/4579.ts
+#EXTINF:-1,USA: TSN 4
+http://iptv.alphacs.tv:8080/live/roja/roja/4578.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 1
+http://iptv.alphacs.tv:8080/live/roja/roja/4580.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4581.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 3
+http://iptv.alphacs.tv:8080/live/roja/roja/4582.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 4
+http://iptv.alphacs.tv:8080/live/roja/roja/7251.ts
+#EXTINF:-1,USA: Fox Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7258.ts
+#EXTINF:-1,USA: Fox Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7259.ts
+#EXTINF:-1,USA: AFM NEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/4583.ts
+#EXTINF:-1,USA: AFM MOVIES
+http://iptv.alphacs.tv:8080/live/roja/roja/4588.ts
+#EXTINF:-1,USA: AFM SPORTS
+http://iptv.alphacs.tv:8080/live/roja/roja/4591.ts
+#EXTINF:-1,USA: AFM SPORT HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4589.ts
+#EXTINF:-1,USA: AFM  PLUSE
+http://iptv.alphacs.tv:8080/live/roja/roja/4596.ts
+#EXTINF:-1,USA: Fashion TV
+http://iptv.alphacs.tv:8080/live/roja/roja/4576.ts
+#EXTINF:-1,USA: SPECTRUM
+http://iptv.alphacs.tv:8080/live/roja/roja/4572.ts
+#EXTINF:-1,USA: PRIME PACIFIC
+http://iptv.alphacs.tv:8080/live/roja/roja/4571.ts
+#EXTINF:-1,USA: PRIME ATLANTIC
+http://iptv.alphacs.tv:8080/live/roja/roja/4570.ts
+#EXTINF:-1,USA: GLOBAL MONTREAL
+http://iptv.alphacs.tv:8080/live/roja/roja/4569.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4567.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4566.ts
+#EXTINF:-1,USA: DISCOVERY ID XTRA HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4565.ts
+#EXTINF:-1,USA: AFN SPORTS HD
+http://iptv.alphacs.tv:8080/live/roja/roja/4564.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://iptv.alphacs.tv:8080/live/roja/roja/4563.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://iptv.alphacs.tv:8080/live/roja/roja/4562.ts
+#EXTINF:-1,USA: AFN NEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/4561.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://iptv.alphacs.tv:8080/live/roja/roja/4560.ts
+#EXTINF:-1,USA: AFM PULSE
+http://iptv.alphacs.tv:8080/live/roja/roja/4559.ts
+#EXTINF:-1,USA: ABC NEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/4558.ts
+#EXTINF:-1,==========Ex-Yu==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7240.ts
+#EXTINF:-1,EX-YU: TV 1000
+http://iptv.alphacs.tv:8080/live/roja/roja/7263.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 1 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7319.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 2 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7320.ts
+#EXTINF:-1,EX-YU: SPORT KLUB 3 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7321.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 1 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7324.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 2 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7325.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 3 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7326.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 4 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7327.ts
+#EXTINF:-1,EX-YU: ARENA SPORT 5 HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7328.ts
+#EXTINF:-1,EX-YU: RTV 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7295.ts
+#EXTINF:-1,EX-YU: RTS 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7274.ts
+#EXTINF:-1,EX-YU: RTS 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7275.ts
+#EXTINF:-1,EX-YU: RTL PASSION [HR]
+http://iptv.alphacs.tv:8080/live/roja/roja/7272.ts
+#EXTINF:-1,EX-YU: RTL LIVING
+http://iptv.alphacs.tv:8080/live/roja/roja/7269.ts
+#EXTINF:-1,EX-YU: RTL KOCKICA
+http://iptv.alphacs.tv:8080/live/roja/roja/7270.ts
+#EXTINF:-1,EX-YU: RTL CRIME
+http://iptv.alphacs.tv:8080/live/roja/roja/7271.ts
+#EXTINF:-1,EX-YU: RTL
+http://iptv.alphacs.tv:8080/live/roja/roja/7267.ts
+#EXTINF:-1,EX-YU: RTL 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7268.ts
+#EXTINF:-1,EX-YU: OBN
+http://iptv.alphacs.tv:8080/live/roja/roja/7276.ts
+#EXTINF:-1,EX-YU: NOVA HR
+http://iptv.alphacs.tv:8080/live/roja/roja/7286.ts
+#EXTINF:-1,EX-YU: NICKELODEON
+http://iptv.alphacs.tv:8080/live/roja/roja/7306.ts
+#EXTINF:-1,EX-YU: NATIONAL GEOGRAPHIC [HR]
+http://iptv.alphacs.tv:8080/live/roja/roja/7302.ts
+#EXTINF:-1,EX-YU: N1
+http://iptv.alphacs.tv:8080/live/roja/roja/7303.ts
+#EXTINF:-1,EX-YU: MINIMAX
+http://iptv.alphacs.tv:8080/live/roja/roja/7305.ts
+#EXTINF:-1,EX-YU: MINI
+http://iptv.alphacs.tv:8080/live/roja/roja/7304.ts
+#EXTINF:-1,EX-YU: KLASIK TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7315.ts
+#EXTINF:-1,EX-YU: HRT 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7278.ts
+#EXTINF:-1,EX-YU: HRT 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7279.ts
+#EXTINF:-1,EX-YU: HRT 3
+http://iptv.alphacs.tv:8080/live/roja/roja/7280.ts
+#EXTINF:-1,EX-YU: HRT 4
+http://iptv.alphacs.tv:8080/live/roja/roja/7281.ts
+#EXTINF:-1,EX-YU: HISTORY CHANNEL
+http://iptv.alphacs.tv:8080/live/roja/roja/7300.ts
+#EXTINF:-1,EX-YU: HBO COMEDY
+http://iptv.alphacs.tv:8080/live/roja/roja/7288.ts
+#EXTINF:-1,EX-YU: HBO ADRIA
+http://iptv.alphacs.tv:8080/live/roja/roja/7287.ts
+#EXTINF:-1,EX-YU: HAYATOVCI
+http://iptv.alphacs.tv:8080/live/roja/roja/7293.ts
+#EXTINF:-1,EX-YU: HAYAT FOLK
+http://iptv.alphacs.tv:8080/live/roja/roja/7294.ts
+#EXTINF:-1,EX-YU: HAYAT BIH
+http://iptv.alphacs.tv:8080/live/roja/roja/7292.ts
+#EXTINF:-1,EX-YU: HAYAT
+http://iptv.alphacs.tv:8080/live/roja/roja/7291.ts
+#EXTINF:-1,EX-YU: HAPPY
+http://iptv.alphacs.tv:8080/live/roja/roja/7296.ts
+#EXTINF:-1,EX-YU: GRAND TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7307.ts
+#EXTINF:-1,EX-YU: FTV
+http://iptv.alphacs.tv:8080/live/roja/roja/7273.ts
+#EXTINF:-1,EX-YU: FOX MOVIES
+http://iptv.alphacs.tv:8080/live/roja/roja/7285.ts
+#EXTINF:-1,EX-YU: FOX LIFE
+http://iptv.alphacs.tv:8080/live/roja/roja/7283.ts
+#EXTINF:-1,EX-YU: FOX CRIME
+http://iptv.alphacs.tv:8080/live/roja/roja/7284.ts
+#EXTINF:-1,EX-YU: FOX
+http://iptv.alphacs.tv:8080/live/roja/roja/7282.ts
+#EXTINF:-1,EX-YU: FACE TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7313.ts
+#EXTINF:-1,EX-YU: EUROSPORT 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7317.ts
+#EXTINF:-1,EX-YU: EUROSPORT 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7318.ts
+#EXTINF:-1,EX-YU: DOMA TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7314.ts
+#EXTINF:-1,EX-YU: DM SAT
+http://iptv.alphacs.tv:8080/live/roja/roja/7312.ts
+#EXTINF:-1,EX-YU: DISCOVERY CHANNEL
+http://iptv.alphacs.tv:8080/live/roja/roja/7301.ts
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7265.ts
+#EXTINF:-1,EX-YU: CINESTAR PREMIERE 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7266.ts
+#EXTINF:-1,EX-YU: CINESTAR ACTION
+http://iptv.alphacs.tv:8080/live/roja/roja/7264.ts
+#EXTINF:-1,EX-YU: CINEMAX
+http://iptv.alphacs.tv:8080/live/roja/roja/7289.ts
+#EXTINF:-1,EX-YU: CINEMAX 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7290.ts
+#EXTINF:-1,EX-YU: BN MUSIC
+http://iptv.alphacs.tv:8080/live/roja/roja/7311.ts
+#EXTINF:-1,EX-YU: B 92
+http://iptv.alphacs.tv:8080/live/roja/roja/7308.ts
+#EXTINF:-1,EX-YU: ATV
+http://iptv.alphacs.tv:8080/live/roja/roja/7277.ts
+#EXTINF:-1,EX-YU: ATLAS TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7297.ts
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://iptv.alphacs.tv:8080/live/roja/roja/7299.ts
+#EXTINF:-1,EX-YU: AL JAZEERA
+http://iptv.alphacs.tv:8080/live/roja/roja/7316.ts
+#EXTINF:-1,EX-YU: 24 KITCHEN
+http://iptv.alphacs.tv:8080/live/roja/roja/7298.ts
+#EXTINF:-1,EX-YU: PRVA PLUS
+http://iptv.alphacs.tv:8080/live/roja/roja/5512.ts
+#EXTINF:-1,EX-YU: PINK ZABAVA
+http://iptv.alphacs.tv:8080/live/roja/roja/5519.ts
+#EXTINF:-1,EX-YU: PINK WORLD
+http://iptv.alphacs.tv:8080/live/roja/roja/5527.ts
+#EXTINF:-1,EX-YU: PINK WESTERN
+http://iptv.alphacs.tv:8080/live/roja/roja/5524.ts
+#EXTINF:-1,EX-YU: PINK THRILLER
+http://iptv.alphacs.tv:8080/live/roja/roja/5526.ts
+#EXTINF:-1,EX-YU: PINK SOAP
+http://iptv.alphacs.tv:8080/live/roja/roja/5511.ts
+#EXTINF:-1,EX-YU: PINK SCI-FI & FANTASY
+http://iptv.alphacs.tv:8080/live/roja/roja/5528.ts
+#EXTINF:-1,EX-YU: PINK ROMANCE
+http://iptv.alphacs.tv:8080/live/roja/roja/5525.ts
+#EXTINF:-1,EX-YU: PINK REALITY
+http://iptv.alphacs.tv:8080/live/roja/roja/5520.ts
+#EXTINF:-1,EX-YU: PINK PREMIUM
+http://iptv.alphacs.tv:8080/live/roja/roja/5523.ts
+#EXTINF:-1,EX-YU: PINK PLUS
+http://iptv.alphacs.tv:8080/live/roja/roja/5510.ts
+#EXTINF:-1,EX-YU: PINK PEDIA
+http://iptv.alphacs.tv:8080/live/roja/roja/5517.ts
+#EXTINF:-1,EX-YU: PINK M
+http://iptv.alphacs.tv:8080/live/roja/roja/5506.ts
+#EXTINF:-1,EX-YU: PINK KIDS
+http://iptv.alphacs.tv:8080/live/roja/roja/5509.ts
+#EXTINF:-1,EX-YU: PINK HORROR
+http://iptv.alphacs.tv:8080/live/roja/roja/5522.ts
+#EXTINF:-1,EX-YU: PINK FOLK 2
+http://iptv.alphacs.tv:8080/live/roja/roja/5514.ts
+#EXTINF:-1,EX-YU: PINK FOLK 1
+http://iptv.alphacs.tv:8080/live/roja/roja/5513.ts
+#EXTINF:-1,EX-YU: PINK FILM
+http://iptv.alphacs.tv:8080/live/roja/roja/5508.ts
+#EXTINF:-1,EX-YU: PINK FAMLIY
+http://iptv.alphacs.tv:8080/live/roja/roja/5515.ts
+#EXTINF:-1,EX-YU: PINK EXTRA
+http://iptv.alphacs.tv:8080/live/roja/roja/5516.ts
+#EXTINF:-1,EX-YU: PINK CRIME & MISTERY
+http://iptv.alphacs.tv:8080/live/roja/roja/5529.ts
+#EXTINF:-1,EX-YU: PINK COMEDY
+http://iptv.alphacs.tv:8080/live/roja/roja/5521.ts
+#EXTINF:-1,EX-YU: PINK BH
+http://iptv.alphacs.tv:8080/live/roja/roja/5507.ts
+#EXTINF:-1,EX-YU: PINK ACTION
+http://iptv.alphacs.tv:8080/live/roja/roja/5518.ts
+#EXTINF:-1,EX-YU: PINK 3
+http://iptv.alphacs.tv:8080/live/roja/roja/5504.ts
+#EXTINF:-1,EX-YU: PINK 2
+http://iptv.alphacs.tv:8080/live/roja/roja/5505.ts
+#EXTINF:-1,EX-YU: PINK 1
+http://iptv.alphacs.tv:8080/live/roja/roja/5503.ts
+#EXTINF:-1,==========Arabic==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7241.ts
+#EXTINF:-1,AR: OSN YAHALA
+http://iptv.alphacs.tv:8080/live/roja/roja/7950.ts
+#EXTINF:-1,AR: OSN Ya Hala Shabab
+http://iptv.alphacs.tv:8080/live/roja/roja/7951.ts
+#EXTINF:-1,AR: OSN YA HALA DRAMA
+http://iptv.alphacs.tv:8080/live/roja/roja/7952.ts
+#EXTINF:-1,AR: OSN StAR: World
+http://iptv.alphacs.tv:8080/live/roja/roja/7936.ts
+#EXTINF:-1,AR: OSN On Demand
+http://iptv.alphacs.tv:8080/live/roja/roja/7937.ts
+#EXTINF:-1,AR: OSN Movies stAR: HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7938.ts
+#EXTINF:-1,AR: OSN Movies Kids
+http://iptv.alphacs.tv:8080/live/roja/roja/7944.ts
+#EXTINF:-1,AR: OSN Movies First More HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7945.ts
+#EXTINF:-1,AR: OSN Movies Festival
+http://iptv.alphacs.tv:8080/live/roja/roja/7946.ts
+#EXTINF:-1,AR: OSN Movies Drama HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7947.ts
+#EXTINF:-1,AR: OSN Movies Box Office 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7939.ts
+#EXTINF:-1,AR: OSN Movies Box Office 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7940.ts
+#EXTINF:-1,AR: OSN Movie Premiere
+http://iptv.alphacs.tv:8080/live/roja/roja/7942.ts
+#EXTINF:-1,AR: OSN MOVIE ACTION
+http://iptv.alphacs.tv:8080/live/roja/roja/7955.ts
+#EXTINF:-1,AR: OSN MOVIE ACTION 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7956.ts
+#EXTINF:-1,AR: OSN MOVIE
+http://iptv.alphacs.tv:8080/live/roja/roja/7954.ts
+#EXTINF:-1,AR: OSN MBC  DRAMA
+http://iptv.alphacs.tv:8080/live/roja/roja/7933.ts
+#EXTINF:-1,AR: OSN Hahala HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7941.ts
+#EXTINF:-1,AR: OSN First HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7948.ts
+#EXTINF:-1,AR: OSN Discovery Science
+http://iptv.alphacs.tv:8080/live/roja/roja/7949.ts
+#EXTINF:-1,AR: OSN Cinema 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7934.ts
+#EXTINF:-1,AR: OSN Cinema 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7935.ts
+#EXTINF:-1,AR: Star Cinema
+http://iptv.alphacs.tv:8080/live/roja/roja/7929.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7930.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7931.ts
+#EXTINF:-1,AR: Somaliland National TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7896.ts
+#EXTINF:-1,AR: Saudi 24
+http://iptv.alphacs.tv:8080/live/roja/roja/7895.ts
+#EXTINF:-1,AR: Sama Dubai
+http://iptv.alphacs.tv:8080/live/roja/roja/7893.ts
+#EXTINF:-1,AR: Noor TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7886.ts
+#EXTINF:-1,AR: Noor Dubai
+http://iptv.alphacs.tv:8080/live/roja/roja/7887.ts
+#EXTINF:-1,AR: MTV Lebanon
+http://iptv.alphacs.tv:8080/live/roja/roja/7883.ts
+#EXTINF:-1,AR: Mobahat TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7882.ts
+#EXTINF:-1,AR: MBC1
+http://iptv.alphacs.tv:8080/live/roja/roja/7589.ts
+#EXTINF:-1,AR: MBC2
+http://iptv.alphacs.tv:8080/live/roja/roja/7590.ts
+#EXTINF:-1,AR: MBC3
+http://iptv.alphacs.tv:8080/live/roja/roja/7601.ts
+#EXTINF:-1,AR: MBC4
+http://iptv.alphacs.tv:8080/live/roja/roja/7591.ts
+#EXTINF:-1,AR: MBC PRO SP1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7598.ts
+#EXTINF:-1,AR: MBC PRO SP2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7599.ts
+#EXTINF:-1,AR: MBC PRO SP3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7600.ts
+#EXTINF:-1,AR: MBC Masr 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7915.ts
+#EXTINF:-1,AR: MBC Masr 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7916.ts
+#EXTINF:-1,AR: MBC MASR2
+http://iptv.alphacs.tv:8080/live/roja/roja/7596.ts
+#EXTINF:-1,AR: MBC MAX
+http://iptv.alphacs.tv:8080/live/roja/roja/7593.ts
+#EXTINF:-1,AR: MBC masr
+http://iptv.alphacs.tv:8080/live/roja/roja/7595.ts
+#EXTINF:-1,AR: MBC Drama
+http://iptv.alphacs.tv:8080/live/roja/roja/7597.ts
+#EXTINF:-1,AR: MBC bollywood
+http://iptv.alphacs.tv:8080/live/roja/roja/7594.ts
+#EXTINF:-1,AR: MBC Action
+http://iptv.alphacs.tv:8080/live/roja/roja/7592.ts
+#EXTINF:-1,AR: MBC 1
+http://iptv.alphacs.tv:8080/live/roja/roja/7911.ts
+#EXTINF:-1,AR: MBC 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7912.ts
+#EXTINF:-1,AR: MBC 3
+http://iptv.alphacs.tv:8080/live/roja/roja/7913.ts
+#EXTINF:-1,AR: MBC 4
+http://iptv.alphacs.tv:8080/live/roja/roja/7914.ts
+#EXTINF:-1,AR: LBC Sat
+http://iptv.alphacs.tv:8080/live/roja/roja/7879.ts
+#EXTINF:-1,AR: Future TV Int
+http://iptv.alphacs.tv:8080/live/roja/roja/7877.ts
+#EXTINF:-1,AR: Fadak TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7876.ts
+#EXTINF:-1,AR: Dubai One
+http://iptv.alphacs.tv:8080/live/roja/roja/7875.ts
+#EXTINF:-1,AR: Dubai Drama
+http://iptv.alphacs.tv:8080/live/roja/roja/7909.ts
+#EXTINF:-1,AR: CBC Drama
+http://iptv.alphacs.tv:8080/live/roja/roja/7908.ts
+#EXTINF:-1,AR: Cartoon Network
+http://iptv.alphacs.tv:8080/live/roja/roja/7903.ts
+#EXTINF:-1,AR: Cairo Drama
+http://iptv.alphacs.tv:8080/live/roja/roja/7907.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://iptv.alphacs.tv:8080/live/roja/roja/7906.ts
+#EXTINF:-1,AR: Belqees TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7874.ts
+#EXTINF:-1,AR: Arrabbia
+http://iptv.alphacs.tv:8080/live/roja/roja/7872.ts
+#EXTINF:-1,AR: Almayadeen
+http://iptv.alphacs.tv:8080/live/roja/roja/7904.ts
+#EXTINF:-1,AR: Al Seha Waljamal
+http://iptv.alphacs.tv:8080/live/roja/roja/7870.ts
+#EXTINF:-1,AR: Al Ruqya 2
+http://iptv.alphacs.tv:8080/live/roja/roja/7868.ts
+#EXTINF:-1,AR: Al Sahraa 3
+http://iptv.alphacs.tv:8080/live/roja/roja/7869.ts
+#EXTINF:-1,AR: Al Resalah
+http://iptv.alphacs.tv:8080/live/roja/roja/7867.ts
+#EXTINF:-1,AR: Al Masdar
+http://iptv.alphacs.tv:8080/live/roja/roja/7866.ts
+#EXTINF:-1,AR: Al Ma Aly
+http://iptv.alphacs.tv:8080/live/roja/roja/7864.ts
+#EXTINF:-1,AR: Al Khalij
+http://iptv.alphacs.tv:8080/live/roja/roja/7863.ts
+#EXTINF:-1,AR: Al Jazeera Mubasher
+http://iptv.alphacs.tv:8080/live/roja/roja/7862.ts
+#EXTINF:-1,AR: Al Jazeera
+http://iptv.alphacs.tv:8080/live/roja/roja/7861.ts
+#EXTINF:-1,AR: Al Aoula Laayoune
+http://iptv.alphacs.tv:8080/live/roja/roja/7859.ts
+#EXTINF:-1,AR: Al Aoula Inter
+http://iptv.alphacs.tv:8080/live/roja/roja/7858.ts
+#EXTINF:-1,AR: Al Amaken
+http://iptv.alphacs.tv:8080/live/roja/roja/7857.ts
+#EXTINF:-1,AR: Al Alam
+http://iptv.alphacs.tv:8080/live/roja/roja/7856.ts
+#EXTINF:-1,AR: AD Drama
+http://iptv.alphacs.tv:8080/live/roja/roja/7905.ts
+#EXTINF:-1,AR: A TV
+http://iptv.alphacs.tv:8080/live/roja/roja/7855.ts
+#EXTINF:-1,==========Poland==========
+http://iptv.alphacs.tv:8080/live/roja/roja/7932.ts
+#EXTINF:-1,POL: TVP SPORT
+http://iptv.alphacs.tv:8080/live/roja/roja/7391.ts
+#EXTINF:-1,POL: POLSAT SPORT NEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/7384.ts
+#EXTINF:-1,POL: POLSAT SPORT EXTRA
+http://iptv.alphacs.tv:8080/live/roja/roja/7349.ts
+#EXTINF:-1,POL: POLSAT SPORT
+http://iptv.alphacs.tv:8080/live/roja/roja/7383.ts
+#EXTINF:-1,POL: POLSAT PLAY
+http://iptv.alphacs.tv:8080/live/roja/roja/7382.ts
+#EXTINF:-1,POL: POLSAT NEWS
+http://iptv.alphacs.tv:8080/live/roja/roja/7381.ts
+#EXTINF:-1,POL: POLSAT FILM
+http://iptv.alphacs.tv:8080/live/roja/roja/7380.ts
+#EXTINF:-1,POL: ORANGE SPORT
+http://iptv.alphacs.tv:8080/live/roja/roja/7363.ts
+#EXTINF:-1,POL: NATIONAL GEOGRAPHIC
+http://iptv.alphacs.tv:8080/live/roja/roja/7377.ts
+#EXTINF:-1,POL: EUROSPORT
+http://iptv.alphacs.tv:8080/live/roja/roja/7367.ts
+#EXTINF:-1,POL: DISNEY JUNIOR
+http://iptv.alphacs.tv:8080/live/roja/roja/7374.ts
+#EXTINF:-1,POL: DISCOVERY SCIENCE
+http://iptv.alphacs.tv:8080/live/roja/roja/7368.ts
+#EXTINF:-1,POL: DISCOVERY CHANNEL
+http://iptv.alphacs.tv:8080/live/roja/roja/7369.ts
+#EXTINF:-1,POL: COMEDY CENTRAL
+http://iptv.alphacs.tv:8080/live/roja/roja/7373.ts
+#EXTINF:-1,POL: CANAL  SPORT 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7360.ts
+#EXTINF:-1,POL: ANIMAL PLANET HD
+http://iptv.alphacs.tv:8080/live/roja/roja/7370.ts
+#EXTINF:-1,==========Indian==========
+http://iptv.alphacs.tv:8080/live/roja/roja/9303.ts
+#EXTINF:-1,IN: Zoom
+http://iptv.alphacs.tv:8080/live/roja/roja/9254.ts
+#EXTINF:-1,IN: Zee Tv Us
+http://iptv.alphacs.tv:8080/live/roja/roja/9255.ts
+#EXTINF:-1,IN: Zee Smile
+http://iptv.alphacs.tv:8080/live/roja/roja/9256.ts
+#EXTINF:-1,IN: Zee Punjabi
+http://iptv.alphacs.tv:8080/live/roja/roja/9257.ts
+#EXTINF:-1,IN: Zee Cinema HD US
+http://iptv.alphacs.tv:8080/live/roja/roja/9258.ts
+#EXTINF:-1,IN: Zee Alwan
+http://iptv.alphacs.tv:8080/live/roja/roja/9259.ts
+#EXTINF:-1,IN: Zee Aflam
+http://iptv.alphacs.tv:8080/live/roja/roja/9260.ts
+#EXTINF:-1,IN: Zee Action
+http://iptv.alphacs.tv:8080/live/roja/roja/9261.ts
+#EXTINF:-1,IN: Z Cine
+http://iptv.alphacs.tv:8080/live/roja/roja/9262.ts
+#EXTINF:-1,IN: VijaY
+http://iptv.alphacs.tv:8080/live/roja/roja/9263.ts
+#EXTINF:-1,IN: UTV Movies US
+http://iptv.alphacs.tv:8080/live/roja/roja/9264.ts
+#EXTINF:-1,IN: UTV Movies
+http://iptv.alphacs.tv:8080/live/roja/roja/9265.ts
+#EXTINF:-1,IN: Sun Tv
+http://iptv.alphacs.tv:8080/live/roja/roja/9266.ts
+#EXTINF:-1,IN: Sun Music
+http://iptv.alphacs.tv:8080/live/roja/roja/9267.ts
+#EXTINF:-1,IN: Starz Cinema
+http://iptv.alphacs.tv:8080/live/roja/roja/9268.ts
+#EXTINF:-1,IN: Star Sport 4 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9269.ts
+#EXTINF:-1,IN: Star Sport 3 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9270.ts
+#EXTINF:-1,IN: Star Sport 2 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9271.ts
+#EXTINF:-1,IN: Star Sport 1 HD
+http://iptv.alphacs.tv:8080/live/roja/roja/9272.ts
+#EXTINF:-1,IN: Star Plus HD US
+http://iptv.alphacs.tv:8080/live/roja/roja/9273.ts
+#EXTINF:-1,IN: SonY Us
+http://iptv.alphacs.tv:8080/live/roja/roja/9275.ts
+#EXTINF:-1,IN: Sony Sab
+http://iptv.alphacs.tv:8080/live/roja/roja/9276.ts
+#EXTINF:-1,IN: Set Mx
+http://iptv.alphacs.tv:8080/live/roja/roja/9279.ts
+#EXTINF:-1,IN: Samaa TV
+http://iptv.alphacs.tv:8080/live/roja/roja/9280.ts
+#EXTINF:-1,IN: Music India
+http://iptv.alphacs.tv:8080/live/roja/roja/9281.ts
+#EXTINF:-1,IN: jmovie
+http://iptv.alphacs.tv:8080/live/roja/roja/9283.ts
+#EXTINF:-1,IN: jayatv
+http://iptv.alphacs.tv:8080/live/roja/roja/9284.ts
+#EXTINF:-1,IN: J Max
+http://iptv.alphacs.tv:8080/live/roja/roja/9285.ts
+#EXTINF:-1,IN: B4U Music
+http://iptv.alphacs.tv:8080/live/roja/roja/9287.ts
+#EXTINF:-1,IN: B4U Movie
+http://iptv.alphacs.tv:8080/live/roja/roja/9288.ts
+#EXTINF:-1,IN: B4U Aflam Ar
+http://iptv.alphacs.tv:8080/live/roja/roja/9289.ts
+#EXTINF:-1,IN: ARY Digtal Uk
+http://iptv.alphacs.tv:8080/live/roja/roja/9292.ts
+#EXTINF:-1,IN: ARY Digtal
+http://iptv.alphacs.tv:8080/live/roja/roja/9293.ts
+#EXTINF:-1,IN: Aapkaus
+http://iptv.alphacs.tv:8080/live/roja/roja/9295.ts
+#EXTINF:-1,IN: AApka US
+http://iptv.alphacs.tv:8080/live/roja/roja/9296.ts
+#EXTINF:-1,IN: Aajtak
+http://iptv.alphacs.tv:8080/live/roja/roja/9297.ts
